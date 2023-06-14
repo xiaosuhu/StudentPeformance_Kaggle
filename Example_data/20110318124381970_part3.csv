@@ -1,0 +1,1072 @@
+session_id,index,elapsed_time,event_name,name,level,page,room_coor_x,room_coor_y,screen_coor_x,screen_coor_y,hover_duration,text,fqid,room_fqid,text_fqid,level_group,elapsed_time_diff
+20110318124381970,813,1677062,navigate_click,undefined,13,,487.12326,-252.9842,,,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,0
+20110318124381970,814,1677696,navigate_click,undefined,13,,535.4233,-264.1984,2.0,0.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,634
+20110318124381970,815,1678495,navigate_click,undefined,13,,646.3533,-250.62604,2.0,14.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,799
+20110318124381970,816,1679945,navigate_click,undefined,13,,820.6526,-24.923113,26.0,149.0,,,toentry,tunic.capitol_1.hall,text_fqid_None,13-22,1450
+20110318124381970,817,1682748,map_click,close,13,,874.5772,337.11774,26.0,228.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,2803
+20110318124381970,818,1683698,navigate_click,undefined,13,,644.3501,-491.55768,152.0,547.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,950
+20110318124381970,819,1685130,navigate_click,undefined,13,,851.95087,-41.132946,138.0,314.0,,,toentry,tunic.capitol_1.hall,text_fqid_None,13-22,1432
+20110318124381970,820,1685997,map_hover,basic,13,,,,,,583.0,,toentry,tunic.capitol_1.hall,text_fqid_None,13-22,867
+20110318124381970,821,1686548,map_hover,basic,13,,,,,,36.0,,tunic.capitol_1,tunic.capitol_1.hall,text_fqid_None,13-22,551
+20110318124381970,822,1686716,map_hover,basic,13,,,,,,53.0,,tunic.kohlcenter,tunic.capitol_1.hall,text_fqid_None,13-22,168
+20110318124381970,823,1687014,map_hover,basic,13,,,,,,234.0,,tunic.library,tunic.capitol_1.hall,text_fqid_None,13-22,298
+20110318124381970,824,1687797,map_hover,basic,13,,,,,,733.0,,tunic.library,tunic.capitol_1.hall,text_fqid_None,13-22,783
+20110318124381970,825,1688682,map_hover,basic,13,,,,,,301.0,,tunic.humanecology,tunic.capitol_1.hall,text_fqid_None,13-22,885
+20110318124381970,826,1688982,map_hover,basic,13,,,,,,150.0,,tunic.capitol_1,tunic.capitol_1.hall,text_fqid_None,13-22,300
+20110318124381970,827,1689447,map_click,undefined,13,,121.63972,69.05849,,,,,tunic.library,tunic.capitol_1.hall,text_fqid_None,13-22,465
+20110318124381970,828,1691111,navigate_click,undefined,13,,-747.6442,-46.000504,171.0,102.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1664
+20110318124381970,829,1691994,navigate_click,undefined,13,,-837.57465,91.21068,69.0,106.0,,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,883
+20110318124381970,830,1692512,map_hover,basic,13,,,,,,250.0,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,518
+20110318124381970,831,1692961,map_hover,basic,13,,,,,,83.0,,tunic.library,tunic.library.frontdesk,text_fqid_None,13-22,449
+20110318124381970,832,1693445,map_click,undefined,13,,-368.1496,37.641605,,,,,tunic.capitol_1,tunic.library.frontdesk,text_fqid_None,13-22,484
+20110318124381970,833,1696712,navigate_click,undefined,13,,62.06911,-205.72322,168.0,132.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,3267
+20110318124381970,834,1697478,navigate_click,undefined,13,,-339.06137,-223.91924,236.0,16.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,766
+20110318124381970,835,1698195,navigate_click,undefined,13,,-502.25156,-274.51392,46.0,33.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,717
+20110318124381970,836,1699045,navigate_click,undefined,13,,-618.6054,-270.65982,16.0,7.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,850
+20110318124381970,837,1701811,navigate_click,undefined,13,,-840.80835,-43.3935,10.0,151.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,2766
+20110318124381970,838,1702161,navigate_click,undefined,13,,-812.7378,-44.17778,21.0,13.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,350
+20110318124381970,839,1702529,navigate_click,undefined,13,,-813.2899,-38.748272,0.0,0.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,368
+20110318124381970,840,1703461,navigate_click,undefined,13,,-536.4906,161.36166,183.0,129.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,932
+20110318124381970,841,1704494,navigate_click,undefined,13,,-586.5798,-239.27652,33.0,265.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,1033
+20110318124381970,842,1704978,navigate_click,undefined,13,,-586.5891,-249.31583,0.0,0.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,484
+20110318124381970,843,1705944,navigate_click,undefined,13,,-609.32184,-402.20123,15.0,92.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,966
+20110318124381970,844,1706661,navigate_click,undefined,13,,-779.0196,-75.961655,112.0,222.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,717
+20110318124381970,845,1707194,navigate_click,undefined,13,,-421.44403,-81.36088,236.0,9.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,533
+20110318124381970,846,1708294,navigate_click,undefined,13,,-45.557663,-133.51361,241.0,49.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,1100
+20110318124381970,847,1708694,navigate_click,undefined,13,,-28.775492,-129.54384,1.0,3.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,400
+20110318124381970,848,1709544,navigate_click,undefined,13,,255.09247,50.65309,118.0,119.0,,,boss,tunic.capitol_1.hall,text_fqid_None,13-22,850
+20110318124381970,849,1711681,person_click,basic,13,,35.65202,-16.869963,167.0,38.0,,Head back to the museum. Your gramps is waiting for you.,boss,tunic.capitol_1.hall,tunic.capitol_1.hall.boss.writeitup,13-22,2137
+20110318124381970,850,1711961,navigate_click,undefined,13,,290.8823,-108.05631,168.0,60.0,,,boss,tunic.capitol_1.hall,text_fqid_None,13-22,280
+20110318124381970,851,1712428,person_click,basic,13,,332.01822,-150.57239,27.0,28.0,,Head back to the museum. Your gramps is waiting for you.,boss,tunic.capitol_1.hall,tunic.capitol_1.hall.boss.writeitup,13-22,467
+20110318124381970,852,1712978,navigate_click,undefined,13,,426.05856,-253.64355,62.0,68.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,550
+20110318124381970,853,1713481,navigate_click,undefined,13,,441.79797,-258.18805,0.0,0.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,503
+20110318124381970,854,1713611,navigate_click,undefined,13,,471.39706,-261.77808,0.0,0.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,130
+20110318124381970,855,1713911,navigate_click,undefined,13,,511.558,-264.26913,0.0,0.0,,,fqid_None,tunic.capitol_1.hall,text_fqid_None,13-22,300
+20110318124381970,856,1715027,navigate_click,undefined,13,,811.81964,-185.79979,99.0,54.0,,,toentry,tunic.capitol_1.hall,text_fqid_None,13-22,1116
+20110318124381970,857,1715794,map_hover,basic,13,,,,,,500.0,,toentry,tunic.capitol_1.hall,text_fqid_None,13-22,767
+20110318124381970,858,1716991,map_hover,basic,13,,,,,,133.0,,tunic.humanecology,tunic.capitol_1.hall,text_fqid_None,13-22,1197
+20110318124381970,859,1716829,map_hover,basic,13,,,,,,217.0,,tunic.kohlcenter,tunic.capitol_1.hall,text_fqid_None,13-22,0
+20110318124381970,860,1717412,map_hover,basic,13,,,,,,566.0,,tunic.library,tunic.capitol_1.hall,text_fqid_None,13-22,583
+20110318124381970,861,1717578,map_hover,basic,13,,,,,,66.0,,tunic.library,tunic.capitol_1.hall,text_fqid_None,13-22,166
+20110318124381970,862,1717628,map_hover,basic,13,,,,,,33.0,,tunic.capitol_1,tunic.capitol_1.hall,text_fqid_None,13-22,50
+20110318124381970,863,1717811,map_hover,basic,13,,,,,,149.0,,tunic.historicalsociety,tunic.capitol_1.hall,text_fqid_None,13-22,183
+20110318124381970,864,1718181,map_hover,basic,13,,,,,,20.0,,tunic.historicalsociety,tunic.capitol_1.hall,text_fqid_None,13-22,370
+20110318124381970,865,1718861,map_click,undefined,13,,413.96817,158.44537,,,,,tunic.historicalsociety,tunic.capitol_1.hall,text_fqid_None,13-22,680
+20110318124381970,866,1720581,navigate_click,undefined,13,,597.7195,144.27394,3.0,35.0,,,tobasement,tunic.historicalsociety.entry,text_fqid_None,13-22,1720
+20110318124381970,867,1722946,cutscene_click,basic,13,,-5.413386,-82.83728,17.0,150.0,,Jo!,ch3start,tunic.historicalsociety.basement,tunic.historicalsociety.basement.ch3start,13-22,2365
+20110318124381970,868,1724671,cutscene_click,basic,13,,-4.52766,-95.34735,3.0,10.0,,Check out the next artifact!,ch3start,tunic.historicalsociety.basement,tunic.historicalsociety.basement.ch3start,13-22,1725
+20110318124381970,869,1727580,cutscene_click,basic,13,,177.92476,-139.52777,42.0,24.0,,What is it?,ch3start,tunic.historicalsociety.basement,tunic.historicalsociety.basement.ch3start,13-22,2909
+20110318124381970,870,1728880,cutscene_click,basic,13,,172.92673,-133.98914,10.0,4.0,,"I think it's a flag! Pretty spiffy, eh?",ch3start,tunic.historicalsociety.basement,tunic.historicalsociety.basement.ch3start,13-22,1300
+20110318124381970,871,1729531,cutscene_click,basic,13,,177.74539,-128.41603,3.0,4.0,,"It's really cool, Gramps. But I'm worried about Teddy.",ch3start,tunic.historicalsociety.basement,tunic.historicalsociety.basement.ch3start,13-22,651
+20110318124381970,872,1730080,cutscene_click,basic,13,,177.92247,-128.41676,0.0,0.0,,He's still missing!,ch3start,tunic.historicalsociety.basement,tunic.historicalsociety.basement.ch3start,13-22,549
+20110318124381970,873,1730546,cutscene_click,basic,13,,177.98112,-128.417,0.0,0.0,,"We'll find him, Jo.",ch3start,tunic.historicalsociety.basement,tunic.historicalsociety.basement.ch3start,13-22,466
+20110318124381970,874,1730946,cutscene_click,basic,13,,178.00371,-128.4171,0.0,0.0,,Want to look for more clues?,ch3start,tunic.historicalsociety.basement,tunic.historicalsociety.basement.ch3start,13-22,400
+20110318124381970,875,1731411,navigate_click,undefined,13,,178.01292,-128.41714,0.0,0.0,,,fqid_None,tunic.historicalsociety.basement,text_fqid_None,13-22,465
+20110318124381970,876,1732637,navigate_click,undefined,13,,-155.67682,-53.054905,216.0,56.0,,,seescratches,tunic.historicalsociety.basement,text_fqid_None,13-22,1226
+20110318124381970,877,1735661,cutscene_click,basic,13,,-232.33601,-212.89899,25.0,111.0,,"Hey, look at those scratches!",seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,3024
+20110318124381970,878,1736263,cutscene_click,basic,13,,-235.12389,-215.68687,2.0,2.0,,The kidnapper probably took Teddy on the elevator!,seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,602
+20110318124381970,879,1740063,cutscene_click,basic,13,,-258.82086,-208.71718,17.0,5.0,,"Great Scott, you're right!",seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,3800
+20110318124381970,880,1740530,cutscene_click,basic,13,,-254.63904,-210.11111,3.0,1.0,,Why isn't the button working?,seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,467
+20110318124381970,881,1740913,cutscene_click,basic,13,,-254.63904,-210.11111,0.0,0.0,,We'll need a key card.,seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,383
+20110318124381970,882,1741501,cutscene_click,basic,13,,-254.63904,-210.11111,0.0,0.0,,"I had one, but Teddy chewed it up.",seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,588
+20110318124381970,883,1741831,cutscene_click,basic,13,,-251.85117,-211.50505,2.0,1.0,,I've got Wells's ID!,seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,330
+20110318124381970,884,1742195,cutscene_click,basic,13,,-251.85117,-211.50505,0.0,0.0,,What should we do next?,seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,364
+20110318124381970,885,1742680,cutscene_click,basic,13,,-249.06328,-214.29294,2.0,2.0,,I need to take the artifact upstairs. Why don't you investigate those scratch marks?,seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,485
+20110318124381970,886,1743112,cutscene_click,basic,13,,-246.2754,-217.08081,2.0,2.0,,Okay. I'll try.,seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,432
+20110318124381970,887,1743612,cutscene_click,basic,13,,-247.66934,-217.08081,1.0,0.0,,"Teddy, here I come!",seescratches,tunic.historicalsociety.basement,tunic.historicalsociety.basement.seescratches,13-22,500
+20110318124381970,888,1748294,navigate_click,undefined,14,,12.116337,-120.044876,228.0,70.0,,,gramps,tunic.historicalsociety.basement,text_fqid_None,13-22,4682
+20110318124381970,889,1757141,person_click,basic,14,,-196.724,-226.60884,294.0,75.0,,I'll be in the collection room. Come find me when you're ready to check out the artifact.,gramps,tunic.historicalsociety.basement,tunic.historicalsociety.basement.gramps.seeyalater,13-22,8847
+20110318124381970,890,1757744,person_click,basic,14,,-29.450819,-49.578533,120.0,127.0,,Good luck!,gramps,tunic.historicalsociety.basement,tunic.historicalsociety.basement.gramps.seeyalater,13-22,603
+20110318124381970,891,1759010,navigate_click,undefined,14,,-191.14775,43.815407,116.0,67.0,,,tocage,tunic.historicalsociety.basement,text_fqid_None,13-22,1266
+20110318124381970,892,1763479,navigate_click,undefined,14,,-1369.2471,-166.582,316.0,181.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,4469
+20110318124381970,893,1764129,navigate_click,undefined,14,,-1350.0039,-167.67569,1.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,650
+20110318124381970,894,1765445,navigate_click,undefined,14,,-1000.73035,-164.83038,178.0,3.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1316
+20110318124381970,895,1766462,navigate_click,undefined,14,,-1569.1366,8.96403,651.0,153.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1017
+20110318124381970,896,1768079,navigate_click,undefined,14,,-1134.6578,-160.75224,520.0,154.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1617
+20110318124381970,897,1769029,navigate_click,undefined,14,,-1045.5162,-188.31244,62.0,21.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,950
+20110318124381970,898,1770478,navigate_click,undefined,14,,-674.2398,-240.00545,151.0,43.0,,,glasses,tunic.historicalsociety.cage,text_fqid_None,13-22,1449
+20110318124381970,899,1772696,person_click,basic,14,,-775.0329,-166.7059,315.0,65.0,,I wonder whose glasses these are.,glasses,tunic.historicalsociety.cage,tunic.historicalsociety.cage.glasses.beforeteddy,13-22,2218
+20110318124381970,900,1774610,navigate_click,undefined,14,,-685.9714,-257.51306,70.0,80.0,,,glasses,tunic.historicalsociety.cage,text_fqid_None,13-22,1914
+20110318124381970,901,1775311,person_click,basic,14,,-844.64716,-117.90996,140.0,123.0,,I wonder whose glasses these are.,glasses,tunic.historicalsociety.cage,tunic.historicalsociety.cage.glasses.beforeteddy,13-22,701
+20110318124381970,902,1775843,navigate_click,undefined,14,,-603.9798,-145.14967,212.0,24.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,532
+20110318124381970,903,1776594,navigate_click,undefined,14,,-463.64374,-167.53436,37.0,22.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,751
+20110318124381970,904,1777310,navigate_click,undefined,14,,-326.20694,-168.04176,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,716
+20110318124381970,905,1778293,navigate_click,undefined,14,,-112.11411,-36.615143,33.0,116.0,,,lockeddoor,tunic.historicalsociety.cage,text_fqid_None,13-22,983
+20110318124381970,906,1779977,observation_click,basic,14,,-85.13447,-151.64691,148.0,106.0,,It's locked!,lockeddoor,tunic.historicalsociety.cage,tunic.historicalsociety.cage.lockeddoor,13-22,1684
+20110318124381970,907,1781494,navigate_click,undefined,14,,46.357258,-126.3861,105.0,22.0,,,teddy,tunic.historicalsociety.cage,text_fqid_None,13-22,1517
+20110318124381970,908,1782793,person_click,basic,14,,18.832067,-114.472145,25.0,12.0,,Teddy!!!,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,1299
+20110318124381970,909,1783846,person_click,basic,14,,25.71625,-121.443665,6.0,6.0,,\u00f0\u0178\u02dc\u00ad,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,1053
+20110318124381970,910,1785195,person_click,basic,14,,-185.3795,-155.51869,186.0,30.0,,Hang on. I'll get you out of there!,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,1349
+20110318124381970,911,1787294,navigate_click,undefined,15,,-679.0975,-255.39978,435.0,88.0,,,glasses,tunic.historicalsociety.cage,text_fqid_None,13-22,2099
+20110318124381970,912,1790162,person_click,basic,15,,-698.1789,-248.39804,512.0,11.0,,Whoever lost these glasses probably took Teddy!,glasses,tunic.historicalsociety.cage,tunic.historicalsociety.cage.glasses.afterteddy,13-22,2868
+20110318124381970,913,1790846,person_click,basic,15,,-712.7267,-248.4233,0.0,0.0,,How can I find out whose glasses these are?,glasses,tunic.historicalsociety.cage,tunic.historicalsociety.cage.glasses.afterteddy,13-22,684
+20110318124381970,914,1791821,person_click,basic,15,,-716.302,-248.4295,0.0,0.0,,Oh! There was a staff directory in the entryway!,glasses,tunic.historicalsociety.cage,tunic.historicalsociety.cage.glasses.afterteddy,13-22,975
+20110318124381970,915,1791812,person_click,basic,15,,-717.578,-248.43172,0.0,0.0,,I'll go look at everyone's pictures!,glasses,tunic.historicalsociety.cage,tunic.historicalsociety.cage.glasses.afterteddy,13-22,0
+20110318124381970,916,1792451,navigate_click,undefined,15,,-718.125,-248.43266,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,639
+20110318124381970,917,1793463,navigate_click,undefined,15,,-534.7516,-177.87172,123.0,65.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1012
+20110318124381970,918,1794193,navigate_click,undefined,15,,-354.8371,-181.83531,62.0,6.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,730
+20110318124381970,919,1794759,navigate_click,undefined,15,,-91.45222,-170.90704,115.0,9.0,,,lockeddoor,tunic.historicalsociety.cage,text_fqid_None,13-22,566
+20110318124381970,920,1795226,navigate_click,undefined,15,,49.45365,-168.72212,0.0,1.0,,,teddy,tunic.historicalsociety.cage,text_fqid_None,13-22,467
+20110318124381970,921,1796660,person_click,basic,15,,63.864845,-132.94577,145.0,30.0,,Teddy!!!,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,1434
+20110318124381970,922,1797127,person_click,basic,15,,71.940315,-132.87436,0.0,0.0,,\u00f0\u0178\u02dc\u00ad,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,467
+20110318124381970,923,1797610,person_click,basic,15,,75.458725,-132.84325,0.0,0.0,,Hang on. I'll get you out of there!,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,483
+20110318124381970,924,1798065,navigate_click,undefined,15,,76.74464,-132.83188,0.0,0.0,,,teddy,tunic.historicalsociety.cage,text_fqid_None,13-22,455
+20110318124381970,925,1800131,person_click,basic,15,,-281.95663,-139.63217,317.0,6.0,,Teddy!!!,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,2066
+20110318124381970,926,1801276,person_click,basic,15,,-564.46716,-267.8847,249.0,113.0,,\u00f0\u0178\u02dc\u00ad,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,1145
+20110318124381970,927,1801993,person_click,basic,15,,-472.53082,-232.70012,81.0,31.0,,Hang on. I'll get you out of there!,teddy,tunic.historicalsociety.cage,tunic.historicalsociety.cage.teddy.trapped,13-22,717
+20110318124381970,928,1802526,navigate_click,undefined,15,,-478.20523,-228.16017,5.0,4.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,533
+20110318124381970,929,1804167,notebook_click,open,15,4.0,-929.3766,-324.10153,152.0,78.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1641
+20110318124381970,930,1807864,notebook_click,prev,15,4.0,-978.48145,-349.69724,4.0,22.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,3697
+20110318124381970,931,1808818,notebook_click,prev,15,3.0,-979.65765,-348.56284,1.0,1.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,954
+20110318124381970,932,1809465,notebook_click,prev,15,2.0,-979.6638,-348.56293,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,647
+20110318124381970,933,1810552,notebook_click,prev,15,1.0,-979.66614,-348.56296,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1087
+20110318124381970,934,1811814,notebook_click,basic,15,0.0,-953.56177,-61.41144,23.0,253.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1262
+20110318124381970,935,1814012,notebook_click,close,15,0.0,-72.8125,296.10922,776.0,315.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,2198
+20110318124381970,936,1816862,navigate_click,undefined,15,,-785.58386,-145.40042,628.0,389.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,2850
+20110318124381970,937,1817821,navigate_click,undefined,15,,-973.1916,-169.63007,110.0,24.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,959
+20110318124381970,938,1818294,navigate_click,undefined,15,,-1237.342,-168.63144,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,473
+20110318124381970,939,1818711,navigate_click,undefined,15,,-1355.4146,-168.49117,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,417
+20110318124381970,940,1819078,navigate_click,undefined,15,,-1458.1522,-168.42493,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,367
+20110318124381970,941,1819428,navigate_click,undefined,15,,-1550.2562,-168.38959,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,350
+20110318124381970,942,1819877,navigate_click,undefined,15,,-1655.6212,-168.36584,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,449
+20110318124381970,943,1820961,navigate_click,undefined,15,,-1879.2303,-34.419785,74.0,118.0,,,tobasement,tunic.historicalsociety.cage,text_fqid_None,13-22,1084
+20110318124381970,944,1824148,navigate_click,undefined,15,,-556.91345,3.3997214,90.0,32.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,3187
+20110318124381970,945,1826276,navigate_click,undefined,15,,949.00183,72.65386,688.0,30.0,,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,2128
+20110318124381970,946,1827471,map_hover,basic,15,,,,,,718.0,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,1195
+20110318124381970,947,1827731,map_hover,basic,15,,,,,,37.0,,tunic.capitol_2,tunic.historicalsociety.entry,text_fqid_None,13-22,260
+20110318124381970,948,1827797,map_hover,basic,15,,,,,,33.0,,tunic.library,tunic.historicalsociety.entry,text_fqid_None,13-22,66
+20110318124381970,949,1830247,map_hover,basic,15,,,,,,18.0,,tunic.historicalsociety,tunic.historicalsociety.entry,text_fqid_None,13-22,2450
+20110318124381970,950,1831214,map_hover,basic,15,,,,,,618.0,,tunic.drycleaner,tunic.historicalsociety.entry,text_fqid_None,13-22,967
+20110318124381970,951,1832151,map_hover,basic,15,,,,,,80.0,,tunic.kohlcenter,tunic.historicalsociety.entry,text_fqid_None,13-22,937
+20110318124381970,952,1832115,map_click,undefined,15,,301.35254,36.829865,,,,,tunic.library,tunic.historicalsociety.entry,text_fqid_None,13-22,0
+20110318124381970,953,1833461,navigate_click,undefined,15,,-401.03818,125.9995,87.0,74.0,,,worker,tunic.library.frontdesk,text_fqid_None,13-22,1346
+20110318124381970,954,1835876,person_click,basic,15,,-282.05093,243.61784,90.0,90.0,,It's such a nice fall day.,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.preflag,13-22,2415
+20110318124381970,955,1836431,navigate_click,undefined,15,,-274.9538,243.61964,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,555
+20110318124381970,956,1837311,navigate_click,undefined,15,,-715.1381,1.2573943,322.0,186.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,880
+20110318124381970,957,1839461,navigate_click,undefined,15,,-404.7739,-161.62112,391.0,125.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,2150
+20110318124381970,958,1841059,notebook_click,open,15,0.0,-770.4573,-339.63422,357.0,133.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1598
+20110318124381970,959,1845651,notebook_click,next,15,0.0,280.20572,-390.95877,790.0,39.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,4592
+20110318124381970,960,1847130,notebook_click,next,15,1.0,280.21362,-390.95898,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1479
+20110318124381970,961,1847742,notebook_click,next,15,2.0,280.21384,-390.95898,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,612
+20110318124381970,962,1849181,notebook_click,next,15,3.0,280.21396,-390.95898,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1439
+20110318124381970,963,1851260,notebook_click,close,15,4.0,269.7897,316.5865,8.0,543.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,2079
+20110318124381970,964,1852525,navigate_click,undefined,15,,-741.3618,1.2531431,776.0,242.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1265
+20110318124381970,965,1855475,navigate_click,undefined,15,,-849.8187,128.91702,25.0,94.0,,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,2950
+20110318124381970,966,1856076,map_hover,basic,15,,,,,,299.0,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,601
+20110318124381970,967,1857426,map_click,undefined,15,,-650.06244,-134.25856,,,,,tunic.kohlcenter,tunic.library.frontdesk,text_fqid_None,13-22,1350
+20110318124381970,968,1858644,navigate_click,undefined,15,,-395.97382,-53.0,352.0,50.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1218
+20110318124381970,969,1859261,navigate_click,undefined,15,,-332.5408,-86.0,32.0,33.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,617
+20110318124381970,970,1859812,navigate_click,undefined,15,,-238.75647,-90.0,15.0,4.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,551
+20110318124381970,971,1860228,navigate_click,undefined,15,,-669.85205,53.0,517.0,143.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,416
+20110318124381970,972,1860695,navigate_click,undefined,15,,-702.92645,-68.0,66.0,121.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,467
+20110318124381970,973,1862243,navigate_click,undefined,15,,-923.5082,37.0,63.0,105.0,,,toentry,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1548
+20110318124381970,974,1863115,map_hover,basic,15,,,,,,437.0,,toentry,tunic.kohlcenter.halloffame,text_fqid_None,13-22,872
+20110318124381970,975,1863513,map_hover,basic,15,,,,,,67.0,,tunic.library,tunic.kohlcenter.halloffame,text_fqid_None,13-22,398
+20110318124381970,976,1864794,map_click,undefined,15,,-543.20636,9.0,,,,,tunic.capitol_2,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1281
+20110318124381970,977,1868810,navigate_click,undefined,15,,777.22064,-26.935337,310.0,6.0,,,toentry,tunic.capitol_2.hall,text_fqid_None,13-22,4016
+20110318124381970,978,1869494,map_hover,basic,15,,,,,,332.0,,toentry,tunic.capitol_2.hall,text_fqid_None,13-22,684
+20110318124381970,979,1870525,map_click,undefined,15,,492.8309,34.76182,,,,,tunic.drycleaner,tunic.capitol_2.hall,text_fqid_None,13-22,1031
+20110318124381970,980,1872679,navigate_click,undefined,15,,505.8758,67.0,251.0,22.0,,,toentry,tunic.drycleaner.frontdesk,text_fqid_None,13-22,2154
+20110318124381970,981,1874162,map_click,undefined,15,,246.97769,173.0,260.0,106.0,,,tunic.historicalsociety,tunic.drycleaner.frontdesk,text_fqid_None,13-22,1483
+20110318124381970,982,1875292,navigate_click,undefined,15,,475.5922,-80.44024,121.0,220.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1130
+20110318124381970,983,1875759,navigate_click,undefined,15,,209.20966,-155.87778,150.0,44.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,467
+20110318124381970,984,1876181,navigate_click,undefined,15,,-31.61494,-286.00415,118.0,76.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,422
+20110318124381970,985,1876541,navigate_click,undefined,15,,-89.568924,-294.1064,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,360
+20110318124381970,986,1876875,navigate_click,undefined,15,,-151.0915,-301.59628,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,334
+20110318124381970,987,1877451,navigate_click,undefined,15,,-263.10727,-302.1759,12.0,3.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,576
+20110318124381970,988,1877775,navigate_click,undefined,15,,-362.42703,-304.62372,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,324
+20110318124381970,989,1878441,navigate_click,undefined,15,,-487.47693,-306.0021,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,666
+20110318124381970,990,1878974,navigate_click,undefined,15,,-729.2016,-163.3619,60.0,88.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,533
+20110318124381970,991,1879658,navigate_click,undefined,15,,-914.64435,-166.89375,34.0,8.0,,,tocollectionflag,tunic.historicalsociety.entry,text_fqid_None,13-22,684
+20110318124381970,992,1882441,navigate_click,undefined,15,,0.7313103,-162.09314,248.0,23.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,2783
+20110318124381970,993,1883091,navigate_click,undefined,15,,-193.33374,-161.67612,118.0,1.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,650
+20110318124381970,994,1883458,navigate_click,undefined,15,,-142.08824,-229.4988,54.0,47.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,367
+20110318124381970,995,1883825,navigate_click,undefined,15,,-166.8909,-230.9084,6.0,0.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,367
+20110318124381970,996,1884191,navigate_click,undefined,15,,-205.11627,-232.02968,0.0,0.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,366
+20110318124381970,997,1884708,navigate_click,undefined,15,,464.69623,-152.17456,505.0,56.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,517
+20110318124381970,998,1885157,navigate_click,undefined,15,,450.68347,-150.61024,0.0,0.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,449
+20110318124381970,999,1885591,navigate_click,undefined,15,,473.17224,-149.43925,0.0,0.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,434
+20110318124381970,1000,1886158,navigate_click,undefined,15,,592.84296,-145.89279,48.0,2.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,567
+20110318124381970,1001,1886974,navigate_click,undefined,15,,739.8239,-149.77481,50.0,3.0,,,toentry,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,816
+20110318124381970,1002,1888493,navigate_click,undefined,15,,-227.079,-223.44688,270.0,31.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1519
+20110318124381970,1003,1888925,navigate_click,undefined,15,,-104.61262,-177.39177,65.0,32.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,432
+20110318124381970,1004,1889794,navigate_click,undefined,15,,219.2697,158.64656,133.0,209.0,,,tostacks,tunic.historicalsociety.entry,text_fqid_None,13-22,869
+20110318124381970,1005,1891625,navigate_click,undefined,15,,564.3341,-139.32016,24.0,193.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1831
+20110318124381970,1006,1893290,navigate_click,undefined,15,,580.3726,145.66374,167.0,182.0,,,tobasement,tunic.historicalsociety.entry,text_fqid_None,13-22,1665
+20110318124381970,1007,1894793,navigate_click,undefined,15,,229.33748,-208.08252,84.0,241.0,,,fqid_None,tunic.historicalsociety.basement,text_fqid_None,13-22,1503
+20110318124381970,1008,1895278,navigate_click,undefined,15,,246.14163,-210.63025,0.0,0.0,,,fqid_None,tunic.historicalsociety.basement,text_fqid_None,13-22,485
+20110318124381970,1009,1896025,navigate_click,undefined,15,,204.36113,41.07367,79.0,182.0,,,tocloset_dirty,tunic.historicalsociety.basement,text_fqid_None,13-22,747
+20110318124381970,1010,1897508,navigate_click,undefined,15,,-448.79916,-103.58033,304.0,137.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,1483
+20110318124381970,1011,1898077,navigate_click,undefined,15,,-607.0718,-219.09296,127.0,106.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,569
+20110318124381970,1012,1898510,navigate_click,undefined,15,,-652.2456,-232.18881,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,433
+20110318124381970,1013,1899631,navigate_click,undefined,15,,-751.51697,-243.96446,14.0,4.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,1121
+20110318124381970,1014,1899842,navigate_click,undefined,15,,-383.00134,-226.7094,407.0,21.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,211
+20110318124381970,1015,1900225,navigate_click,undefined,15,,-382.6185,-226.68277,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,383
+20110318124381970,1016,1900575,navigate_click,undefined,15,,-247.1098,-235.5874,99.0,9.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,350
+20110318124381970,1017,1900960,navigate_click,undefined,15,,-145.47,-241.24295,34.0,5.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,385
+20110318124381970,1018,1901451,navigate_click,undefined,15,,-61.354656,-242.0134,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,491
+20110318124381970,1019,1901677,navigate_click,undefined,15,,31.447535,-242.46378,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,226
+20110318124381970,1020,1902160,navigate_click,undefined,15,,167.50906,-242.80157,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,483
+20110318124381970,1021,1902625,navigate_click,undefined,15,,285.30313,-242.96863,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,465
+20110318124381970,1022,1903126,navigate_click,undefined,15,,419.05035,-243.05896,13.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,501
+20110318124381970,1023,1903575,navigate_click,undefined,15,,517.0036,-243.10088,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,449
+20110318124381970,1024,1903976,navigate_click,undefined,15,,601.5576,-243.12137,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,401
+20110318124381970,1025,1904310,navigate_click,undefined,15,,663.4452,-243.13155,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,334
+20110318124381970,1026,1905061,navigate_click,undefined,15,,548.3994,-198.14185,201.0,45.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,751
+20110318124381970,1027,1905525,navigate_click,undefined,15,,287.13498,-245.17975,253.0,51.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,464
+20110318124381970,1028,1906425,navigate_click,undefined,15,,29.138956,-195.4138,129.0,53.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,900
+20110318124381970,1029,1906793,navigate_click,undefined,15,,-41.11182,-192.4427,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,368
+20110318124381970,1030,1907242,navigate_click,undefined,15,,-203.33524,-169.58034,48.0,20.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,449
+20110318124381970,1031,1907926,navigate_click,undefined,15,,-432.788,30.151537,34.0,195.0,,,tobasement,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,684
+20110318124381970,1032,1911040,navigate_click,undefined,15,,-503.2781,-201.11282,3.0,207.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,3114
+20110318124381970,1033,1912041,navigate_click,undefined,15,,-261.58344,-17.112818,221.0,132.0,,,tocage,tunic.historicalsociety.basement,text_fqid_None,13-22,1001
+20110318124381970,1034,1913707,navigate_click,undefined,15,,-1645.0488,-34.923595,33.0,16.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1666
+20110318124381970,1035,1914290,navigate_click,undefined,15,,-1322.4093,-168.75879,270.0,120.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,583
+20110318124381970,1036,1914891,navigate_click,undefined,15,,-1265.2678,-187.02397,1.0,14.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,601
+20110318124381970,1037,1915591,navigate_click,undefined,15,,-1042.0979,-193.83455,99.0,4.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,700
+20110318124381970,1038,1916024,navigate_click,undefined,15,,-967.37305,-194.59929,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,433
+20110318124381970,1039,1917157,navigate_click,undefined,15,,-772.431,-195.21387,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1133
+20110318124381970,1040,1917507,navigate_click,undefined,15,,-727.3361,-195.27628,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,350
+20110318124381970,1041,1917858,navigate_click,undefined,15,,-648.51733,-195.312,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,351
+20110318124381970,1042,1918258,navigate_click,undefined,15,,-547.9471,-195.33406,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,400
+20110318124381970,1043,1918690,navigate_click,undefined,15,,-445.84488,-195.34616,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,432
+20110318124381970,1044,1919175,navigate_click,undefined,15,,-331.45276,-195.35257,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,485
+20110318124381970,1045,1921675,notebook_click,open,15,4.0,-828.08844,-336.0958,637.0,124.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,2500
+20110318124381970,1046,1938228,notebook_click,close,15,4.0,19.680422,304.03638,744.0,564.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,16553
+20110318124381970,1047,1939241,navigate_click,undefined,15,,-601.15704,12.3449135,547.0,257.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1013
+20110318124381970,1048,1939824,navigate_click,undefined,15,,-863.2668,-75.36602,156.0,81.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,583
+20110318124381970,1049,1940607,navigate_click,undefined,15,,-1171.9233,-186.21506,63.0,100.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,783
+20110318124381970,1050,1940974,navigate_click,undefined,15,,-1292.4186,-188.3012,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,367
+20110318124381970,1051,1941441,navigate_click,undefined,15,,-1404.6416,-190.31543,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,467
+20110318124381970,1052,1941641,navigate_click,undefined,15,,-1501.2505,-191.36873,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,200
+20110318124381970,1053,1941940,navigate_click,undefined,15,,-1586.9581,-191.9698,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,299
+20110318124381970,1054,1942208,navigate_click,undefined,15,,-1657.505,-192.30478,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,268
+20110318124381970,1055,1942507,navigate_click,undefined,15,,-1729.6888,-192.54077,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,299
+20110318124381970,1056,1942841,navigate_click,undefined,15,,-1799.9988,-192.69629,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,334
+20110318124381970,1057,1943207,navigate_click,undefined,15,,-1864.0762,-192.79251,0.0,0.0,,,tobasement,tunic.historicalsociety.cage,text_fqid_None,13-22,366
+20110318124381970,1058,1945976,navigate_click,undefined,15,,-562.4892,3.3997214,98.0,170.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,2769
+20110318124381970,1059,1948507,navigate_click,undefined,15,,186.92763,121.504776,224.0,60.0,,,tostacks,tunic.historicalsociety.entry,text_fqid_None,13-22,2531
+20110318124381970,1060,1950992,navigate_click,undefined,15,,1.0,121.56545,102.0,64.0,,,tofrontdesk,tunic.historicalsociety.stacks,text_fqid_None,13-22,2485
+20110318124381970,1061,1953507,navigate_click,undefined,15,,-36.211227,46.0,56.0,93.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,2515
+20110318124381970,1062,1954107,navigate_click,undefined,15,,-97.62584,-14.0,42.0,60.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,600
+20110318124381970,1063,1954857,navigate_click,undefined,15,,-85.41141,21.0,40.0,35.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,750
+20110318124381970,1064,1955307,navigate_click,undefined,15,,89.01215,83.0,178.0,62.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,450
+20110318124381970,1065,1955773,navigate_click,undefined,15,,71.08824,-24.0,38.0,107.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,466
+20110318124381970,1066,1956591,navigate_click,undefined,15,,113.74531,-143.0,11.0,119.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,818
+20110318124381970,1067,1957991,navigate_click,undefined,15,,-108.345894,-225.0,246.0,82.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1400
+20110318124381970,1068,1961660,navigate_click,undefined,15,,-61.518047,-277.0,134.0,52.0,,,tostacks,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,3669
+20110318124381970,1069,1964592,navigate_click,undefined,15,,346.48196,105.75558,345.0,381.0,,,journals,tunic.historicalsociety.stacks,text_fqid_None,13-22,2932
+20110318124381970,1070,1965894,object_hover,undefined,15,,,,,,268.0,,journals.hub.topics,tunic.historicalsociety.stacks,text_fqid_None,13-22,1302
+20110318124381970,1071,1966929,object_click,basic,15,,106.32447,1.7555803,,,,,journals,tunic.historicalsociety.stacks,text_fqid_None,13-22,1035
+20110318124381970,1072,1967610,object_click,basic,15,,222.32365,-4.2444196,115.0,6.0,,,journals.hub.topics,tunic.historicalsociety.stacks,text_fqid_None,13-22,681
+20110318124381970,1073,1967894,object_hover,undefined,15,,,,,,482.0,,journals.hub.topics,tunic.historicalsociety.stacks,text_fqid_None,13-22,284
+20110318124381970,1074,1968527,object_hover,undefined,15,,,,,,166.0,,journals.pic_0.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,633
+20110318124381970,1075,1969177,object_click,basic,15,,407.70328,-86.24442,,,,,journals.pic_0.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,650
+20110318124381970,1076,1969413,object_hover,undefined,15,,,,,,520.0,,journals.pic_0.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,236
+20110318124381970,1077,1970612,object_click,close,15,,428.7239,260.75558,,,,,journals,tunic.historicalsociety.stacks,text_fqid_None,13-22,1199
+20110318124381970,1078,1973024,navigate_click,undefined,15,,0.7255062,-305.24442,428.0,566.0,,,toentry,tunic.historicalsociety.stacks,text_fqid_None,13-22,2412
+20110318124381970,1079,1975258,navigate_click,undefined,15,,-317.02887,-47.635662,226.0,283.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,2234
+20110318124381970,1080,1976589,navigate_click,undefined,15,,482.11777,-132.34373,608.0,53.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1331
+20110318124381970,1081,1977023,navigate_click,undefined,15,,641.51044,-129.15048,119.0,5.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,434
+20110318124381970,1082,1978261,navigate_click,undefined,15,,664.6472,-120.9183,6.0,7.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1238
+20110318124381970,1083,1977756,navigate_click,undefined,15,,719.8777,-121.87806,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,0
+20110318124381970,1084,1978139,navigate_click,undefined,15,,793.2256,-122.4569,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,383
+20110318124381970,1085,1979856,navigate_click,undefined,15,,958.53656,60.923016,82.0,113.0,,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,1717
+20110318124381970,1086,1980826,map_hover,basic,15,,,,,,736.0,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,970
+20110318124381970,1087,1981026,map_hover,basic,15,,,,,,47.0,,tunic.humanecology,tunic.historicalsociety.entry,text_fqid_None,13-22,200
+20110318124381970,1088,1981874,map_hover,basic,15,,,,,,464.0,,tunic.capitol_2,tunic.historicalsociety.entry,text_fqid_None,13-22,848
+20110318124381970,1089,1983477,map_hover,basic,15,,,,,,1584.0,,tunic.library,tunic.historicalsociety.entry,text_fqid_None,13-22,1603
+20110318124381970,1090,1983876,map_click,undefined,15,,534.1796,57.983097,,,,,tunic.capitol_2,tunic.historicalsociety.entry,text_fqid_None,13-22,399
+20110318124381970,1091,1985941,navigate_click,undefined,15,,237.82669,-19.35958,74.0,16.0,,,boss,tunic.capitol_2.hall,text_fqid_None,13-22,2065
+20110318124381970,1092,1991911,person_click,basic,15,,106.45449,-156.70131,125.0,99.0,,Jolie! I was hoping you'd stop by. Any news on the flag artifact?,boss,tunic.capitol_2.hall,tunic.capitol_2.hall.boss.haveyougotit,13-22,5970
+20110318124381970,1093,1995143,person_click,basic,15,,92.79285,-153.67091,9.0,2.0,,I haven't quite figured it out just yet...,boss,tunic.capitol_2.hall,tunic.capitol_2.hall.boss.haveyougotit,13-22,3232
+20110318124381970,1094,1996142,person_click,basic,15,,89.76249,-150.64061,2.0,2.0,,"Well, get on it. I'm counting on you to figure this out!",boss,tunic.capitol_2.hall,tunic.capitol_2.hall.boss.haveyougotit,13-22,999
+20110318124381970,1095,1996597,navigate_click,undefined,15,,89.76248,-150.64061,0.0,0.0,,,fqid_None,tunic.capitol_2.hall,text_fqid_None,13-22,455
+20110318124381970,1096,1997690,navigate_click,undefined,15,,375.79315,-258.98776,144.0,75.0,,,fqid_None,tunic.capitol_2.hall,text_fqid_None,13-22,1093
+20110318124381970,1097,1998289,navigate_click,undefined,15,,446.74878,-285.9383,12.0,11.0,,,fqid_None,tunic.capitol_2.hall,text_fqid_None,13-22,599
+20110318124381970,1098,1998972,navigate_click,undefined,15,,685.7764,-132.95496,102.0,107.0,,,toentry,tunic.capitol_2.hall,text_fqid_None,13-22,683
+20110318124381970,1099,2000174,map_hover,basic,15,,,,,,551.0,,toentry,tunic.capitol_2.hall,text_fqid_None,13-22,1202
+20110318124381970,1100,2001190,map_hover,basic,15,,,,,,468.0,,tunic.historicalsociety,tunic.capitol_2.hall,text_fqid_None,13-22,1016
+20110318124381970,1101,2002205,map_click,undefined,15,,504.51837,25.057209,,,,,tunic.drycleaner,tunic.capitol_2.hall,text_fqid_None,13-22,1015
+20110318124381970,1102,2003239,navigate_click,undefined,15,,-31.124216,77.0,294.0,39.0,,,worker,tunic.drycleaner.frontdesk,text_fqid_None,13-22,1034
+20110318124381970,1103,2003872,navigate_click,undefined,15,,-88.14072,-122.0,42.0,199.0,,,worker,tunic.drycleaner.frontdesk,text_fqid_None,13-22,633
+20110318124381970,1104,2005601,person_click,basic,15,,-134.50009,-121.0,0.0,1.0,,"Nice seeing you, Jolie!",worker,tunic.drycleaner.frontdesk,tunic.drycleaner.frontdesk.worker.done2,13-22,1729
+20110318124381970,1105,2006556,navigate_click,undefined,15,,-291.89334,-243.0,154.0,122.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,955
+20110318124381970,1106,2007022,navigate_click,undefined,15,,-312.48813,-239.0,4.0,4.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,466
+20110318124381970,1107,2007472,navigate_click,undefined,15,,-358.2629,-227.0,10.0,12.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,450
+20110318124381970,1108,2008255,navigate_click,undefined,15,,-163.9001,-70.0,260.0,157.0,,,worker,tunic.drycleaner.frontdesk,text_fqid_None,13-22,783
+20110318124381970,1109,2011611,person_click,basic,15,,23.117075,8.0,72.0,78.0,,"Nice seeing you, Jolie!",worker,tunic.drycleaner.frontdesk,tunic.drycleaner.frontdesk.worker.done2,13-22,3356
+20110318124381970,1110,2012222,navigate_click,undefined,15,,40.10986,39.0,15.0,31.0,,,logbook,tunic.drycleaner.frontdesk,text_fqid_None,13-22,611
+20110318124381970,1111,2014623,object_click,close,15,,373.92462,232.0,372.0,193.0,,,logbook,tunic.drycleaner.frontdesk,text_fqid_None,13-22,2401
+20110318124381970,1112,2015655,navigate_click,undefined,15,,434.34225,-18.0,61.0,250.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,1032
+20110318124381970,1113,2016072,navigate_click,undefined,15,,447.75412,-18.0,0.0,0.0,,,toentry,tunic.drycleaner.frontdesk,text_fqid_None,13-22,417
+20110318124381970,1114,2016589,navigate_click,undefined,15,,483.78592,-18.0,0.0,0.0,,,toentry,tunic.drycleaner.frontdesk,text_fqid_None,13-22,517
+20110318124381970,1115,2018723,map_hover,basic,15,,,,,,350.0,,tunic.drycleaner,tunic.drycleaner.frontdesk,text_fqid_None,13-22,2134
+20110318124381970,1116,2020091,map_click,undefined,15,,253.69319,166.0,,,,,tunic.historicalsociety,tunic.drycleaner.frontdesk,text_fqid_None,13-22,1368
+20110318124381970,1117,2042557,notebook_click,open,15,4.0,-175.75327,-448.4504,528.0,439.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,22466
+20110318124381970,1118,2044275,notebook_click,prev,15,4.0,-216.46236,-497.30133,25.0,30.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1718
+20110318124381970,1119,2044991,notebook_click,prev,15,3.0,-219.71909,-497.30133,2.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,716
+20110318124381970,1120,2045492,notebook_click,prev,15,2.0,-216.46236,-498.9297,2.0,1.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,501
+20110318124381970,1121,2050741,notebook_click,close,15,1.0,1069.945,372.24484,790.0,535.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,5249
+20110318124381970,1122,2051722,navigate_click,undefined,15,,101.06855,-383.3159,595.0,464.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,981
+20110318124381970,1123,2052306,navigate_click,undefined,15,,15.43988,-304.62408,32.0,55.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,584
+20110318124381970,1124,2052905,navigate_click,undefined,15,,-71.67204,-317.47632,2.0,2.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,599
+20110318124381970,1125,2053471,navigate_click,undefined,15,,-343.86053,-254.01231,102.0,43.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,566
+20110318124381970,1126,2053839,navigate_click,undefined,15,,-421.14313,-253.11223,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,368
+20110318124381970,1127,2055241,navigate_click,undefined,15,,-614.54333,-132.6121,41.0,73.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1402
+20110318124381970,1128,2054821,navigate_click,undefined,15,,-709.4171,-123.635086,0.0,2.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,0
+20110318124381970,1129,2055438,navigate_click,undefined,15,,-867.0398,-89.64684,13.0,16.0,,,tocollectionflag,tunic.historicalsociety.entry,text_fqid_None,13-22,617
+20110318124381970,1130,2056521,navigate_click,undefined,15,,-992.2071,-0.9768007,48.0,51.0,,,tocollectionflag,tunic.historicalsociety.entry,text_fqid_None,13-22,1083
+20110318124381970,1131,2057972,navigate_click,undefined,15,,137.47374,-320.42648,341.0,226.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,1451
+20110318124381970,1132,2058471,navigate_click,undefined,15,,-113.40464,-329.21036,167.0,4.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,499
+20110318124381970,1133,2059039,navigate_click,undefined,15,,-450.48175,-286.9517,210.0,32.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,568
+20110318124381970,1134,2059871,navigate_click,undefined,15,,-466.40317,-301.81177,45.0,10.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,832
+20110318124381970,1135,2060789,navigate_click,undefined,15,,-224.0324,-195.82088,239.0,74.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,918
+20110318124381970,1136,2061911,navigate_click,undefined,15,,-50.106365,-304.20303,133.0,77.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,1122
+20110318124381970,1137,2061905,navigate_click,undefined,15,,98.98116,-295.1741,86.0,7.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,0
+20110318124381970,1138,2063081,navigate_click,undefined,15,,186.56151,-298.80774,33.0,2.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,1176
+20110318124381970,1139,2062755,navigate_click,undefined,15,,218.88992,-293.37158,0.0,4.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,0
+20110318124381970,1140,2064091,navigate_click,undefined,15,,553.6891,-201.3414,208.0,64.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,1336
+20110318124381970,1141,2064572,navigate_click,undefined,15,,649.02515,-97.07605,14.0,70.0,,,toentry,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,481
+20110318124381970,1142,2066072,navigate_click,undefined,15,,129.53265,-161.56908,18.0,32.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1500
+20110318124381970,1143,2066521,navigate_click,undefined,15,,153.91463,-159.34796,4.0,4.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,449
+20110318124381970,1144,2066938,navigate_click,undefined,15,,198.19281,-161.78522,1.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,417
+20110318124381970,1145,2067271,navigate_click,undefined,15,,245.53809,-162.89767,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,333
+20110318124381970,1146,2067554,navigate_click,undefined,15,,292.99777,-163.49524,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,283
+20110318124381970,1147,2067788,navigate_click,undefined,15,,336.13623,-163.82922,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,234
+20110318124381970,1148,2068572,navigate_click,undefined,15,,499.8138,-167.60071,0.0,2.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,784
+20110318124381970,1149,2068904,navigate_click,undefined,15,,574.77374,-167.8932,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,332
+20110318124381970,1150,2069254,navigate_click,undefined,15,,654.5709,-168.08417,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,350
+20110318124381970,1151,2072071,navigate_click,undefined,15,,949.5343,88.95895,36.0,158.0,,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,2817
+20110318124381970,1152,2073606,map_hover,basic,15,,,,,,49.0,,tunic.humanecology,tunic.historicalsociety.entry,text_fqid_None,13-22,1535
+20110318124381970,1153,2074108,map_hover,basic,15,,,,,,315.0,,tunic.capitol_2,tunic.historicalsociety.entry,text_fqid_None,13-22,502
+20110318124381970,1154,2123743,map_hover,basic,15,,,,,,70.0,,tunic.kohlcenter,tunic.historicalsociety.entry,text_fqid_None,13-22,49635
+20110318124381970,1155,2124025,map_hover,basic,15,,,,,,100.0,,tunic.capitol_2,tunic.historicalsociety.entry,text_fqid_None,13-22,282
+20110318124381970,1156,2124156,map_hover,basic,15,,,,,,47.0,,tunic.drycleaner,tunic.historicalsociety.entry,text_fqid_None,13-22,131
+20110318124381970,1157,2124807,map_hover,basic,15,,,,,,632.0,,tunic.historicalsociety,tunic.historicalsociety.entry,text_fqid_None,13-22,651
+20110318124381970,1158,2125491,map_hover,basic,15,,,,,,285.0,,tunic.capitol_2,tunic.historicalsociety.entry,text_fqid_None,13-22,684
+20110318124381970,1159,2126306,map_click,undefined,15,,182.48672,-184.6276,,,,,tunic.kohlcenter,tunic.historicalsociety.entry,text_fqid_None,13-22,815
+20110318124381970,1160,2127931,navigate_click,undefined,15,,-625.9738,-191.0,100.0,78.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1625
+20110318124381970,1161,2128057,navigate_click,undefined,15,,-467.82452,-161.0,120.0,30.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,126
+20110318124381970,1162,2128540,navigate_click,undefined,15,,-241.09567,-150.0,163.0,11.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,483
+20110318124381970,1163,2128939,navigate_click,undefined,15,,-138.89392,-149.0,30.0,1.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,399
+20110318124381970,1164,2129456,navigate_click,undefined,15,,62.828484,-144.0,80.0,5.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,517
+20110318124381970,1165,2129906,navigate_click,undefined,15,,203.45259,-147.0,18.0,3.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,450
+20110318124381970,1166,2130622,navigate_click,undefined,15,,403.0597,-145.0,3.0,2.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,716
+20110318124381970,1167,2131022,navigate_click,undefined,15,,493.79495,-140.0,3.0,5.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,400
+20110318124381970,1168,2131890,navigate_click,undefined,15,,671.1599,-145.0,0.0,5.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,868
+20110318124381970,1169,2132274,navigate_click,undefined,15,,722.63116,-144.0,1.0,1.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,384
+20110318124381970,1170,2133006,navigate_click,undefined,15,,875.4071,-85.0,59.0,59.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,732
+20110318124381970,1171,2134141,navigate_click,undefined,15,,361.72614,147.0,587.0,232.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1135
+20110318124381970,1172,2135222,navigate_click,undefined,15,,282.19626,187.0,2.0,40.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1081
+20110318124381970,1173,2136622,navigate_click,undefined,15,,-89.131256,59.0,162.0,128.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1400
+20110318124381970,1174,2137056,navigate_click,undefined,15,,-129.80933,-131.0,12.0,190.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,434
+20110318124381970,1175,2138281,navigate_click,undefined,15,,-220.72661,-117.0,16.0,14.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1225
+20110318124381970,1176,2137922,navigate_click,undefined,15,,-411.7369,-41.0,55.0,76.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,0
+20110318124381970,1177,2139117,notebook_click,open,15,1.0,-682.1554,-276.0,5.0,235.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1195
+20110318124381970,1178,2145231,notebook_click,basic,15,1.0,-291.96725,-203.0,455.0,73.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,6114
+20110318124381970,1179,2144903,notebook_click,basic,15,1.0,-222.96959,-147.0,69.0,56.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,0
+20110318124381970,1180,2147053,notebook_click,close,15,1.0,36.02888,274.0,259.0,421.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,2150
+20110318124381970,1181,2149211,navigate_click,undefined,15,,-680.9711,81.0,717.0,193.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,2158
+20110318124381970,1182,2148937,navigate_click,undefined,15,,-737.6155,81.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,0
+20110318124381970,1183,2150854,navigate_click,undefined,15,,-913.7714,181.0,50.0,100.0,,,toentry,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1917
+20110318124381970,1184,2151623,map_hover,basic,15,,,,,,500.0,,toentry,tunic.kohlcenter.halloffame,text_fqid_None,13-22,769
+20110318124381970,1185,2152411,map_hover,basic,15,,,,,,197.0,,tunic.capitol_2,tunic.kohlcenter.halloffame,text_fqid_None,13-22,788
+20110318124381970,1186,2153507,map_hover,basic,15,,,,,,685.0,,tunic.library,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1096
+20110318124381970,1187,2153806,map_hover,basic,15,,,,,,282.0,,tunic.capitol_2,tunic.kohlcenter.halloffame,text_fqid_None,13-22,299
+20110318124381970,1188,2153855,map_hover,basic,15,,,,,,31.0,,tunic.historicalsociety,tunic.kohlcenter.halloffame,text_fqid_None,13-22,49
+20110318124381970,1189,2154839,map_hover,basic,15,,,,,,349.0,,tunic.library,tunic.kohlcenter.halloffame,text_fqid_None,13-22,984
+20110318124381970,1190,2155239,map_hover,basic,15,,,,,,317.0,,tunic.kohlcenter,tunic.kohlcenter.halloffame,text_fqid_None,13-22,400
+20110318124381970,1191,2155273,map_hover,basic,15,,,,,,17.0,,tunic.library,tunic.kohlcenter.halloffame,text_fqid_None,13-22,34
+20110318124381970,1192,2156606,map_hover,basic,15,,,,,,1314.0,,tunic.capitol_2,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1333
+20110318124381970,1193,2157690,map_hover,basic,15,,,,,,1051.0,,tunic.drycleaner,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1084
+20110318124381970,1194,2158256,map_hover,basic,15,,,,,,49.0,,tunic.library,tunic.kohlcenter.halloffame,text_fqid_None,13-22,566
+20110318124381970,1195,2159058,map_hover,basic,15,,,,,,403.0,,tunic.historicalsociety,tunic.kohlcenter.halloffame,text_fqid_None,13-22,802
+20110318124381970,1196,2159588,map_click,undefined,15,,-678.24927,10.0,,,,,tunic.library,tunic.kohlcenter.halloffame,text_fqid_None,13-22,530
+20110318124381970,1197,2160856,navigate_click,undefined,15,,-408.85635,148.15102,100.0,104.0,,,worker,tunic.library.frontdesk,text_fqid_None,13-22,1268
+20110318124381970,1198,2164573,person_click,basic,15,,-241.3215,160.22694,62.0,9.0,,It's such a nice fall day.,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.preflag,13-22,3717
+20110318124381970,1199,2165672,navigate_click,undefined,15,,-581.33075,50.772755,262.0,84.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1099
+20110318124381970,1200,2166304,navigate_click,undefined,15,,-340.62424,220.16673,225.0,130.0,,,worker,tunic.library.frontdesk,text_fqid_None,13-22,632
+20110318124381970,1201,2167787,person_click,basic,15,,-405.05438,-30.015068,81.0,192.0,,It's such a nice fall day.,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.preflag,13-22,1483
+20110318124381970,1202,2169724,navigate_click,undefined,15,,-680.4941,102.89403,220.0,102.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1937
+20110318124381970,1203,2170286,navigate_click,undefined,15,,-740.94196,89.86372,13.0,10.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,562
+20110318124381970,1204,2170903,navigate_click,undefined,15,,-842.98016,110.712204,9.0,16.0,,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,617
+20110318124381970,1205,2172187,map_hover,basic,15,,,,,,199.0,,tunic.historicalsociety,tunic.library.frontdesk,text_fqid_None,13-22,1284
+20110318124381970,1206,2172987,map_hover,basic,15,,,,,,267.0,,tunic.kohlcenter,tunic.library.frontdesk,text_fqid_None,13-22,800
+20110318124381970,1207,2173870,map_click,undefined,15,,-420.58014,-142.07567,,,,,tunic.humanecology,tunic.library.frontdesk,text_fqid_None,13-22,883
+20110318124381970,1208,2174904,navigate_click,undefined,15,,253.85054,140.0,26.0,249.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,1034
+20110318124381970,1209,2175438,navigate_click,undefined,15,,123.67267,-46.0,99.0,186.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,534
+20110318124381970,1210,2176655,navigate_click,undefined,15,,158.30923,-47.0,152.0,1.0,,,businesscards,tunic.humanecology.frontdesk,text_fqid_None,13-22,1217
+20110318124381970,1211,2178791,object_click,basic,15,,384.76733,-7.0,238.0,40.0,,,businesscards.card_0.next,tunic.humanecology.frontdesk,text_fqid_None,13-22,2136
+20110318124381970,1212,2178524,object_hover,undefined,15,,,,,,667.0,,businesscards.card_0.next,tunic.humanecology.frontdesk,text_fqid_None,13-22,0
+20110318124381970,1213,2179822,object_click,close,15,,453.2759,263.0,,,,,businesscards,tunic.humanecology.frontdesk,text_fqid_None,13-22,1298
+20110318124381970,1214,2182856,navigate_click,undefined,15,,-252.76009,25.0,706.0,238.0,,,worker,tunic.humanecology.frontdesk,text_fqid_None,13-22,3034
+20110318124381970,1215,2185422,person_click,basic,15,,-17.504206,-56.0,342.0,81.0,,"You haven't seen any badgers around here, have you?",worker,tunic.humanecology.frontdesk,tunic.humanecology.frontdesk.worker.badger,13-22,2566
+20110318124381970,1216,2186741,person_click,basic,15,,-103.99371,-49.0,85.0,7.0,,Badgers? No.,worker,tunic.humanecology.frontdesk,tunic.humanecology.frontdesk.worker.badger,13-22,1319
+20110318124381970,1217,2188610,person_click,basic,15,,-101.13643,-49.0,3.0,0.0,,But I hear the museum's got one on the loose!,worker,tunic.humanecology.frontdesk,tunic.humanecology.frontdesk.worker.badger,13-22,1869
+20110318124381970,1218,2189556,person_click,basic,15,,-101.14044,-49.0,0.0,0.0,,Okay. Thanks anyway.,worker,tunic.humanecology.frontdesk,tunic.humanecology.frontdesk.worker.badger,13-22,946
+20110318124381970,1219,2191303,navigate_click,undefined,15,,-201.14125,56.0,100.0,105.0,,,worker,tunic.humanecology.frontdesk,text_fqid_None,13-22,1747
+20110318124381970,1220,2192420,person_click,basic,15,,23.85871,-112.0,225.0,168.0,,"You haven't seen any badgers around here, have you?",worker,tunic.humanecology.frontdesk,tunic.humanecology.frontdesk.worker.badger,13-22,1117
+20110318124381970,1221,2192970,person_click,basic,15,,-229.1413,-171.0,253.0,59.0,,Badgers? No.,worker,tunic.humanecology.frontdesk,tunic.humanecology.frontdesk.worker.badger,13-22,550
+20110318124381970,1222,2193870,person_click,basic,15,,-329.1413,-198.0,100.0,27.0,,But I hear the museum's got one on the loose!,worker,tunic.humanecology.frontdesk,tunic.humanecology.frontdesk.worker.badger,13-22,900
+20110318124381970,1223,2194736,person_click,basic,15,,70.8587,-103.0,400.0,95.0,,Okay. Thanks anyway.,worker,tunic.humanecology.frontdesk,tunic.humanecology.frontdesk.worker.badger,13-22,866
+20110318124381970,1224,2195521,navigate_click,undefined,15,,80.8587,2.0,10.0,105.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,785
+20110318124381970,1225,2196088,navigate_click,undefined,15,,192.85684,-25.0,74.0,27.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,567
+20110318124381970,1226,2196637,navigate_click,undefined,15,,300.55154,-36.0,50.0,11.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,549
+20110318124381970,1227,2198421,navigate_click,undefined,15,,184.49515,-57.0,217.0,21.0,,,businesscards,tunic.humanecology.frontdesk,text_fqid_None,13-22,1784
+20110318124381970,1228,2200605,object_click,basic,15,,406.48636,4.0,308.0,61.0,,,businesscards.card_0.next,tunic.humanecology.frontdesk,text_fqid_None,13-22,2184
+20110318124381970,1229,2201640,object_hover,undefined,15,,,,,,1316.0,,businesscards.card_0.next,tunic.humanecology.frontdesk,text_fqid_None,13-22,1035
+20110318124381970,1230,2201906,object_click,basic,15,,242.44856,-34.0,,,,,businesscards,tunic.humanecology.frontdesk,text_fqid_None,13-22,266
+20110318124381970,1231,2202672,object_click,basic,15,,223.2912,-101.0,19.0,67.0,,,businesscards,tunic.humanecology.frontdesk,text_fqid_None,13-22,766
+20110318124381970,1232,2203624,object_click,close,15,,471.24884,295.0,248.0,396.0,,,businesscards,tunic.humanecology.frontdesk,text_fqid_None,13-22,952
+20110318124381970,1233,2204741,navigate_click,undefined,15,,304.24237,-100.0,167.0,395.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,1117
+20110318124381970,1234,2205022,navigate_click,undefined,15,,354.94727,-100.0,0.0,0.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,281
+20110318124381970,1235,2205554,navigate_click,undefined,15,,397.46625,-100.0,0.0,0.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,532
+20110318124381970,1236,2206007,navigate_click,undefined,15,,423.1731,-100.0,0.0,0.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,453
+20110318124381970,1237,2206591,navigate_click,undefined,15,,438.4334,-100.0,0.0,0.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,584
+20110318124381970,1238,2207741,navigate_click,undefined,15,,521.9973,-91.0,63.0,9.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,1150
+20110318124381970,1239,2209521,navigate_click,undefined,15,,667.5769,-48.0,112.0,43.0,,,tohallway,tunic.humanecology.frontdesk,text_fqid_None,13-22,1780
+20110318124381970,1240,2210972,map_hover,basic,15,,,,,,284.0,,tunic.capitol_2,tunic.humanecology.frontdesk,text_fqid_None,13-22,1451
+20110318124381970,1241,2212154,map_hover,basic,15,,,,,,1163.0,,tunic.drycleaner,tunic.humanecology.frontdesk,text_fqid_None,13-22,1182
+20110318124381970,1242,2212855,map_hover,basic,15,,,,,,663.0,,tunic.historicalsociety,tunic.humanecology.frontdesk,text_fqid_None,13-22,701
+20110318124381970,1243,2213824,map_hover,basic,15,,,,,,935.0,,tunic.library,tunic.humanecology.frontdesk,text_fqid_None,13-22,969
+20110318124381970,1244,2216705,map_click,undefined,15,,395.92697,153.0,,,,,tunic.historicalsociety,tunic.humanecology.frontdesk,text_fqid_None,13-22,2881
+20110318124381970,1245,2223903,navigate_click,undefined,15,,205.28381,206.15176,262.0,24.0,,,tostacks,tunic.historicalsociety.entry,text_fqid_None,13-22,7198
+20110318124381970,1246,2229955,navigate_click,undefined,15,,7.0,125.56545,162.0,14.0,,,tofrontdesk,tunic.historicalsociety.stacks,text_fqid_None,13-22,6052
+20110318124381970,1247,2231904,navigate_click,undefined,15,,9.788774,36.0,16.0,107.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1949
+20110318124381970,1248,2232608,navigate_click,undefined,15,,-47.41578,19.0,47.0,17.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,704
+20110318124381970,1249,2233706,navigate_click,undefined,15,,-363.00977,-50.0,292.0,69.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1098
+20110318124381970,1250,2234581,navigate_click,undefined,15,,-398.02325,-50.0,3.0,0.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,875
+20110318124381970,1251,2235523,navigate_click,undefined,15,,-340.4898,-31.0,132.0,19.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,942
+20110318124381970,1252,2237056,navigate_click,undefined,15,,-45.56002,30.0,292.0,61.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1533
+20110318124381970,1253,2240122,navigate_click,undefined,15,,-17.503384,101.0,77.0,71.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,3066
+20110318124381970,1254,2240854,navigate_click,undefined,15,,-18.650116,104.0,10.0,3.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,732
+20110318124381970,1255,2242989,navigate_click,undefined,15,,-22.666658,-286.0,7.0,390.0,,,tostacks,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,2135
+20110318124381970,1256,2245935,navigate_click,undefined,15,,10.481966,-295.24442,6.0,11.0,,,toentry,tunic.historicalsociety.stacks,text_fqid_None,13-22,2946
+20110318124381970,1257,2250185,navigate_click,undefined,15,,576.94275,144.51125,257.0,391.0,,,tobasement,tunic.historicalsociety.entry,text_fqid_None,13-22,4250
+20110318124381970,1258,2254487,navigate_click,undefined,15,,198.6708,60.94779,19.0,41.0,,,tocloset_dirty,tunic.historicalsociety.basement,text_fqid_None,13-22,4302
+20110318124381970,1259,2255523,navigate_click,undefined,15,,194.31496,84.64476,49.0,17.0,,,tocloset_dirty,tunic.historicalsociety.basement,text_fqid_None,13-22,1036
+20110318124381970,1260,2257221,navigate_click,undefined,15,,-208.79916,-97.58033,72.0,159.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,1698
+20110318124381970,1261,2257971,navigate_click,undefined,15,,-80.733604,-129.85953,48.0,16.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,750
+20110318124381970,1262,2258421,navigate_click,undefined,15,,23.10021,-146.51445,32.0,12.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,450
+20110318124381970,1263,2258870,navigate_click,undefined,15,,113.41067,-149.53462,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,449
+20110318124381970,1264,2260886,navigate_click,undefined,15,,-183.18912,-171.53156,466.0,19.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,2016
+20110318124381970,1265,2262121,navigate_click,undefined,15,,-491.1437,-128.67467,117.0,47.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,1235
+20110318124381970,1266,2262538,navigate_click,undefined,15,,-561.49,-125.55882,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,417
+20110318124381970,1267,2262937,navigate_click,undefined,15,,-653.43317,-123.79762,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,399
+20110318124381970,1268,2263411,navigate_click,undefined,15,,-745.91437,-122.9741,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,474
+20110318124381970,1269,2263704,navigate_click,undefined,15,,-838.90894,-122.54157,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,293
+20110318124381970,1270,2265086,navigate_click,undefined,15,,-408.45584,183.80711,541.0,306.0,,,tobasement,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,1382
+20110318124381970,1271,2272220,navigate_click,undefined,15,,-566.0054,-4.5673633,579.0,211.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,7134
+20110318124381970,1272,2276186,navigate_click,undefined,15,,921.31964,43.34332,783.0,21.0,,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,3966
+20110318124381970,1273,2280490,map_hover,basic,15,,,,,,4085.0,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,4304
+20110318124381970,1274,2282087,map_hover,basic,15,,,,,,116.0,,tunic.drycleaner,tunic.historicalsociety.entry,text_fqid_None,13-22,1597
+20110318124381970,1275,2282638,map_hover,basic,15,,,,,,34.0,,tunic.historicalsociety,tunic.historicalsociety.entry,text_fqid_None,13-22,551
+20110318124381970,1276,2285554,map_click,undefined,15,,218.31073,72.65386,,,,,tunic.library,tunic.historicalsociety.entry,text_fqid_None,13-22,2916
+20110318124381970,1277,2287551,navigate_click,undefined,15,,-103.947266,-108.54596,366.0,128.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1997
+20110318124381970,1278,2287838,navigate_click,undefined,15,,-2.7493184,-84.020706,62.0,20.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,287
+20110318124381970,1279,2288303,navigate_click,undefined,15,,102.80276,-74.14049,42.0,8.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,465
+20110318124381970,1280,2288870,navigate_click,undefined,15,,186.73134,-68.95261,6.0,4.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,567
+20110318124381970,1281,2290061,navigate_click,undefined,15,,401.646,-53.216488,86.0,12.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1191
+20110318124381970,1282,2289985,navigate_click,undefined,15,,564.99615,-39.80158,25.0,10.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,0
+20110318124381970,1283,2290454,navigate_click,undefined,15,,663.26276,-36.826534,3.0,2.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,469
+20110318124381970,1284,2292018,navigate_click,undefined,15,,631.87616,153.78552,200.0,146.0,,,tomicrofiche,tunic.library.frontdesk,text_fqid_None,13-22,1564
+20110318124381970,1285,2296735,navigate_click,undefined,15,,-8.0,-275.0,233.0,394.0,,,tofrontdesk,tunic.library.microfiche,text_fqid_None,13-22,4717
+20110318124381970,1286,2298918,navigate_click,undefined,15,,-216.93675,-67.80295,407.0,223.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,2183
+20110318124381970,1287,2299501,navigate_click,undefined,15,,-273.3095,-114.722565,14.0,35.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,583
+20110318124381970,1288,2299851,navigate_click,undefined,15,,-323.1914,-115.76903,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,350
+20110318124381970,1289,2300151,navigate_click,undefined,15,,-376.04877,-116.38049,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,300
+20110318124381970,1290,2300434,navigate_click,undefined,15,,-431.87015,-116.726974,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,283
+20110318124381970,1291,2300717,navigate_click,undefined,15,,-491.45932,-116.938,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,283
+20110318124381970,1292,2301017,navigate_click,undefined,15,,-556.7805,-117.07222,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,300
+20110318124381970,1293,2301268,navigate_click,undefined,15,,-611.6563,-117.141205,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,251
+20110318124381970,1294,2301568,navigate_click,undefined,15,,-676.51874,-117.19246,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,300
+20110318124381970,1295,2301884,navigate_click,undefined,15,,-742.04333,-117.22402,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,316
+20110318124381970,1296,2303084,navigate_click,undefined,15,,-849.4335,149.86047,50.0,205.0,,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,1200
+20110318124381970,1297,2303786,map_hover,basic,15,,,,,,467.0,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,702
+20110318124381970,1298,2304135,map_hover,basic,15,,,,,,49.0,,tunic.library,tunic.library.frontdesk,text_fqid_None,13-22,349
+20110318124381970,1299,2306235,map_hover,basic,15,,,,,,1650.0,,tunic.library,tunic.library.frontdesk,text_fqid_None,13-22,2100
+20110318124381970,1300,2306881,map_hover,basic,15,,,,,,114.0,,tunic.kohlcenter,tunic.library.frontdesk,text_fqid_None,13-22,646
+20110318124381970,1301,2310038,map_hover,basic,15,,,,,,219.0,,tunic.kohlcenter,tunic.library.frontdesk,text_fqid_None,13-22,3157
+20110318124381970,1302,2310288,map_hover,basic,15,,,,,,232.0,,tunic.capitol_2,tunic.library.frontdesk,text_fqid_None,13-22,250
+20110318124381970,1303,2311237,map_hover,basic,15,,,,,,32.0,,tunic.library,tunic.library.frontdesk,text_fqid_None,13-22,949
+20110318124381970,1304,2311304,map_hover,basic,15,,,,,,50.0,,tunic.capitol_2,tunic.library.frontdesk,text_fqid_None,13-22,67
+20110318124381970,1305,2311571,map_hover,basic,15,,,,,,198.0,,tunic.drycleaner,tunic.library.frontdesk,text_fqid_None,13-22,267
+20110318124381970,1306,2311806,map_hover,basic,15,,,,,,151.0,,tunic.humanecology,tunic.library.frontdesk,text_fqid_None,13-22,235
+20110318124381970,1307,2312570,map_hover,basic,15,,,,,,235.0,,tunic.humanecology,tunic.library.frontdesk,text_fqid_None,13-22,764
+20110318124381970,1308,2313136,map_hover,basic,15,,,,,,183.0,,tunic.kohlcenter,tunic.library.frontdesk,text_fqid_None,13-22,566
+20110318124381970,1309,2313953,map_click,undefined,15,,-658.3923,-91.25749,,,,,tunic.kohlcenter,tunic.library.frontdesk,text_fqid_None,13-22,817
+20110318124381970,1310,2316201,navigate_click,undefined,15,,-351.97382,211.0,402.0,281.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,2248
+20110318124381970,1311,2316017,navigate_click,undefined,15,,-342.5408,-89.0,22.0,300.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,0
+20110318124381970,1312,2316584,navigate_click,undefined,15,,-118.714035,-114.0,142.0,25.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,567
+20110318124381970,1313,2316917,navigate_click,undefined,15,,-50.886196,-114.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,333
+20110318124381970,1314,2317217,navigate_click,undefined,15,,20.101866,-114.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,300
+20110318124381970,1315,2320019,notebook_click,open,15,1.0,-363.1021,-285.0,702.0,171.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,2802
+20110318124381970,1316,2322788,notebook_click,prev,15,1.0,-379.88226,-297.0,20.0,12.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,2769
+20110318124381970,1317,2325952,notebook_click,close,15,0.0,404.1371,261.0,784.0,558.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,3164
+20110318124381970,1318,2326684,navigate_click,undefined,15,,180.13713,-200.0,224.0,461.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,732
+20110318124381970,1319,2327117,navigate_click,undefined,15,,321.6011,-143.0,102.0,57.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,433
+20110318124381970,1320,2327583,navigate_click,undefined,15,,498.6313,-119.0,82.0,24.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,466
+20110318124381970,1321,2328084,navigate_click,undefined,15,,684.53345,-94.0,74.0,25.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,501
+20110318124381970,1322,2328433,navigate_click,undefined,15,,764.1315,-94.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,349
+20110318124381970,1323,2328767,navigate_click,undefined,15,,834.2106,-94.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,334
+20110318124381970,1324,2329118,navigate_click,undefined,15,,895.70605,-94.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,351
+20110318124381970,1325,2330034,navigate_click,undefined,15,,268.96487,-203.0,698.0,109.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,916
+20110318124381970,1326,2330500,navigate_click,undefined,15,,130.27185,-238.0,132.0,35.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,466
+20110318124381970,1327,2330900,navigate_click,undefined,15,,92.84058,-238.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,400
+20110318124381970,1328,2331217,navigate_click,undefined,15,,45.203365,-238.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,317
+20110318124381970,1329,2331483,navigate_click,undefined,15,,-5.4973874,-238.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,266
+20110318124381970,1330,2331783,navigate_click,undefined,15,,-72.29406,-238.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,300
+20110318124381970,1331,2332067,navigate_click,undefined,15,,-143.13289,-238.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,284
+20110318124381970,1332,2332617,navigate_click,undefined,15,,-295.63272,-238.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,550
+20110318124381970,1333,2334201,navigate_click,undefined,15,,-520.792,-239.0,2.0,1.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1584
+20110318124381970,1334,2333767,navigate_click,undefined,15,,-610.8386,-239.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,0
+20110318124381970,1335,2334531,navigate_click,undefined,15,,-748.7487,-239.0,0.0,0.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,764
+20110318124381970,1336,2334951,navigate_click,undefined,15,,-875.3506,-217.0,13.0,22.0,,,fqid_None,tunic.kohlcenter.halloffame,text_fqid_None,13-22,420
+20110318124381970,1337,2336651,navigate_click,undefined,15,,-954.4549,61.0,23.0,278.0,,,toentry,tunic.kohlcenter.halloffame,text_fqid_None,13-22,1700
+20110318124381970,1338,2348236,map_hover,basic,15,,,,,,11285.0,,toentry,tunic.kohlcenter.halloffame,text_fqid_None,13-22,11585
+20110318124381970,1339,2348786,map_hover,basic,15,,,,,,151.0,,tunic.historicalsociety,tunic.kohlcenter.halloffame,text_fqid_None,13-22,550
+20110318124381970,1340,2349119,map_click,undefined,15,,-419.2493,42.0,,,,,tunic.drycleaner,tunic.kohlcenter.halloffame,text_fqid_None,13-22,333
+20110318124381970,1341,2351600,navigate_click,undefined,15,,-324.1242,-199.0,582.0,241.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,2481
+20110318124381970,1342,2352100,navigate_click,undefined,15,,-333.25668,-199.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,500
+20110318124381970,1343,2352500,navigate_click,undefined,15,,-355.0899,-199.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,400
+20110318124381970,1344,2352799,navigate_click,undefined,15,,-378.76108,-199.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,299
+20110318124381970,1345,2353166,navigate_click,undefined,15,,-413.4493,-199.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,367
+20110318124381970,1346,2353583,navigate_click,undefined,15,,-455.91025,-199.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,417
+20110318124381970,1347,2359534,navigate_click,undefined,15,,153.35771,-96.0,702.0,103.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,5951
+20110318124381970,1348,2360033,navigate_click,undefined,15,,163.8721,-96.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,499
+20110318124381970,1349,2360533,navigate_click,undefined,15,,212.20871,-114.0,17.0,18.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,500
+20110318124381970,1350,2360866,navigate_click,undefined,15,,241.71756,-114.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,333
+20110318124381970,1351,2361267,navigate_click,undefined,15,,281.75983,-114.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,401
+20110318124381970,1352,2361566,navigate_click,undefined,15,,311.96204,-114.0,0.0,0.0,,,fqid_None,tunic.drycleaner.frontdesk,text_fqid_None,13-22,299
+20110318124381970,1353,2364066,navigate_click,undefined,15,,491.4044,124.0,122.0,238.0,,,toentry,tunic.drycleaner.frontdesk,text_fqid_None,13-22,2500
+20110318124381970,1354,2364918,map_hover,basic,15,,,,,,617.0,,toentry,tunic.drycleaner.frontdesk,text_fqid_None,13-22,852
+20110318124381970,1355,2365871,map_hover,basic,15,,,,,,183.0,,tunic.drycleaner,tunic.drycleaner.frontdesk,text_fqid_None,13-22,953
+20110318124381970,1356,2365567,map_hover,basic,15,,,,,,165.0,,tunic.library,tunic.drycleaner.frontdesk,text_fqid_None,13-22,0
+20110318124381970,1357,2510447,map_hover,basic,15,,,,,,249.0,,tunic.library,tunic.drycleaner.frontdesk,text_fqid_None,13-22,144880
+20110318124381970,1358,2510521,map_hover,basic,15,,,,,,33.0,,tunic.capitol_2,tunic.drycleaner.frontdesk,text_fqid_None,13-22,74
+20110318124381970,1359,2511049,map_click,undefined,15,,77.06036,-131.0,,,,,tunic.humanecology,tunic.drycleaner.frontdesk,text_fqid_None,13-22,528
+20110318124381970,1360,2513511,navigate_click,undefined,15,,-13.149464,-188.0,218.0,57.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,2462
+20110318124381970,1361,2514496,navigate_click,undefined,15,,-137.82143,-185.0,5.0,3.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,985
+20110318124381970,1362,2520501,navigate_click,undefined,15,,-85.48161,33.0,250.0,218.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,6005
+20110318124381970,1363,2521147,navigate_click,undefined,15,,301.93234,-213.0,364.0,246.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,646
+20110318124381970,1364,2521880,navigate_click,undefined,15,,379.66565,-213.0,0.0,0.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,733
+20110318124381970,1365,2523296,navigate_click,undefined,15,,44.508877,-263.0,513.0,50.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,1416
+20110318124381970,1366,2524501,navigate_click,undefined,15,,-91.86228,-210.0,45.0,53.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,1205
+20110318124381970,1367,2533846,navigate_click,undefined,15,,368.3302,-205.0,620.0,5.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,9345
+20110318124381970,1368,2534530,navigate_click,undefined,15,,432.01727,-201.0,0.0,4.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,684
+20110318124381970,1369,2534880,navigate_click,undefined,15,,491.37,-201.0,0.0,0.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,350
+20110318124381970,1370,2535196,navigate_click,undefined,15,,548.2233,-201.0,0.0,0.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,316
+20110318124381970,1371,2535546,navigate_click,undefined,15,,607.6985,-201.0,0.0,0.0,,,fqid_None,tunic.humanecology.frontdesk,text_fqid_None,13-22,350
+20110318124381970,1372,2537746,navigate_click,undefined,15,,655.95886,-48.0,56.0,153.0,,,tohallway,tunic.humanecology.frontdesk,text_fqid_None,13-22,2200
+20110318124381970,1373,2558165,map_hover,basic,15,,,,,,265.0,,tunic.historicalsociety,tunic.humanecology.frontdesk,text_fqid_None,13-22,20419
+20110318124381970,1374,2559514,map_click,undefined,15,,165.92702,12.0,,,,,tunic.library,tunic.humanecology.frontdesk,text_fqid_None,13-22,1349
+20110318124381970,1375,2561863,navigate_click,undefined,15,,-799.76544,69.96919,192.0,42.0,,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,2349
+20110318124381970,1376,2562684,map_hover,basic,15,,,,,,251.0,,tunic.library,tunic.library.frontdesk,text_fqid_None,13-22,821
+20110318124381970,1377,2563512,map_click,undefined,15,,-265.48495,191.48222,,,,,tunic.historicalsociety,tunic.library.frontdesk,text_fqid_None,13-22,828
+20110318124381970,1378,2565232,navigate_click,undefined,15,,195.51364,110.07831,265.0,77.0,,,tostacks,tunic.historicalsociety.entry,text_fqid_None,13-22,1720
+20110318124381970,1379,2568831,navigate_click,undefined,15,,-2.0,131.56546,159.0,79.0,,,tofrontdesk,tunic.historicalsociety.stacks,text_fqid_None,13-22,3599
+20110318124381970,1380,2570779,navigate_click,undefined,15,,-38.211227,-29.0,55.0,178.0,,,key,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1948
+20110318124381970,1381,2571913,observation_click,basic,15,,121.554665,43.0,162.0,72.0,,Yes! It's the key for Teddy's cage!,key,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.key,13-22,1134
+20110318124381970,1382,2574529,notebook_click,open,16,4.0,-382.77554,-275.0,504.0,318.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,2616
+20110318124381970,1383,2576683,notebook_click,close,16,4.0,405.2205,278.0,788.0,553.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,2154
+20110318124381970,1384,2577995,navigate_click,undefined,16,,-30.779566,-313.0,436.0,591.0,,,tostacks,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1312
+20110318124381970,1385,2581196,navigate_click,undefined,16,,5.4819655,-303.24442,33.0,8.0,,,toentry,tunic.historicalsociety.stacks,text_fqid_None,13-22,3201
+20110318124381970,1386,2583946,navigate_click,undefined,16,,568.80096,149.39635,257.0,402.0,,,tobasement,tunic.historicalsociety.entry,text_fqid_None,13-22,2750
+20110318124381970,1387,2586282,navigate_click,undefined,16,,-252.96555,19.129606,338.0,74.0,,,tocage,tunic.historicalsociety.basement,text_fqid_None,13-22,2336
+20110318124381970,1388,2587547,navigate_click,undefined,16,,-1233.0488,-116.6426,324.0,114.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1265
+20110318124381970,1389,2587947,navigate_click,undefined,16,,-1205.3613,-129.0638,18.0,12.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,400
+20110318124381970,1390,2588499,navigate_click,undefined,16,,-1141.003,-195.83902,23.0,59.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,552
+20110318124381970,1391,2588896,navigate_click,undefined,16,,-1091.4806,-198.03113,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,397
+20110318124381970,1392,2589671,navigate_click,undefined,16,,-1001.093,-203.22525,12.0,3.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,775
+20110318124381970,1393,2589747,navigate_click,undefined,16,,-915.4661,-204.14131,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,76
+20110318124381970,1394,2590046,navigate_click,undefined,16,,-841.4147,-204.5309,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,299
+20110318124381970,1395,2591011,navigate_click,undefined,16,,-750.1399,-204.78761,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,965
+20110318124381970,1396,2590719,navigate_click,undefined,16,,-650.35516,-204.93562,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,0
+20110318124381970,1397,2591114,navigate_click,undefined,16,,-524.4208,-205.03543,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,395
+20110318124381970,1398,2591513,navigate_click,undefined,16,,-412.0127,-205.08446,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,399
+20110318124381970,1399,2591831,navigate_click,undefined,16,,-316.07452,-205.106,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,318
+20110318124381970,1400,2592114,navigate_click,undefined,16,,-220.76228,-205.11774,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,283
+20110318124381970,1401,2593748,navigate_click,undefined,16,,-143.59995,-21.26727,176.0,162.0,,,unlockdoor,tunic.historicalsociety.cage,text_fqid_None,13-22,1634
+20110318124381970,1402,2595232,cutscene_click,basic,16,,-31.839388,-61.91697,23.0,42.0,,I found the key!,unlockdoor,tunic.historicalsociety.cage,tunic.historicalsociety.cage.unlockdoor,13-22,1484
+20110318124381970,1403,2596164,cutscene_click,basic,16,,61.00239,-90.92964,72.0,26.0,,\u00e2\u009d\u00a4\u00ef\u00b8\u008f,unlockdoor,tunic.historicalsociety.cage,tunic.historicalsociety.cage.unlockdoor,13-22,932
+20110318124381970,1404,2596764,cutscene_click,basic,16,,45.621754,-85.18125,15.0,5.0,,"Come on, let's get out of here!",unlockdoor,tunic.historicalsociety.cage,tunic.historicalsociety.cage.unlockdoor,13-22,600
+20110318124381970,1405,2597199,cutscene_click,basic,16,,40.397938,-82.89112,5.0,2.0,,Here's your scarf back!,unlockdoor,tunic.historicalsociety.cage,tunic.historicalsociety.cage.unlockdoor,13-22,435
+20110318124381970,1406,2598730,navigate_click,undefined,16,,-340.2509,-258.0766,260.0,155.0,,,confrontation,tunic.historicalsociety.cage,text_fqid_None,13-22,1531
+20110318124381970,1407,2603431,cutscene_click,basic,16,,-1011.1365,-47.689846,162.0,186.0,,Hey!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,4701
+20110318124381970,1408,2605014,cutscene_click,basic,16,,-1024.9354,-120.32898,12.0,64.0,,What are you doing down here?,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1583
+20110318124381970,1409,2606297,cutscene_click,basic,16,,-900.0964,-15.910244,110.0,92.0,,GRRRRRRR,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1283
+20110318124381970,1410,2608547,cutscene_click,basic,16,,-903.5023,-42.014927,3.0,23.0,,GAH! And what is THAT doing out of its cage?!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,2250
+20110318124381970,1411,2609764,cutscene_click,basic,16,,-903.5023,-42.014927,0.0,0.0,,I'm here to rescue my friend!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1217
+20110318124381970,1412,2611896,cutscene_click,basic,16,,-1024.1454,-29.728703,96.0,2.0,,What's going on here?,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,2132
+20110318124381970,1413,2613432,cutscene_click,basic,16,,-1121.6755,-94.228294,82.0,57.0,,"Thanks for coming, Boss.",confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1536
+20110318124381970,1414,2614799,cutscene_click,basic,16,,-950.55853,-26.117521,151.0,60.0,,I told you!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1367
+20110318124381970,1415,2616551,cutscene_click,basic,16,,-990.304,-31.791538,35.0,5.0,,I captured a badger in our museum!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1752
+20110318124381970,1416,2617617,cutscene_click,basic,16,,-990.30524,-32.92647,0.0,1.0,,He's been eating my lunch every day this week!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1066
+20110318124381970,1417,2619832,cutscene_click,basic,16,,-984.63043,-39.73638,5.0,6.0,,What?!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,2215
+20110318124381970,1418,2620747,cutscene_click,basic,16,,-965.33563,-35.196438,17.0,4.0,,\u00f0\u0178\u02dc\u0090,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,915
+20110318124381970,1419,2621847,cutscene_click,basic,16,,-960.7957,-46.5463,4.0,10.0,,Teddy! Did you really eat his lunch?,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1100
+20110318124381970,1420,2622733,cutscene_click,basic,16,,-964.2007,-46.5463,3.0,0.0,,\u00f0\u0178\u02dc\u0090,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,886
+20110318124381970,1421,2626032,cutscene_click,basic,16,,-960.7957,-46.5463,3.0,0.0,,Did you steal Gramps's paperwork too?!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,3299
+20110318124381970,1422,2626982,cutscene_click,basic,16,,-959.6607,-46.5463,1.0,0.0,,\u00f0\u0178\u02dc\u0090,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,950
+20110318124381970,1423,2628848,cutscene_click,basic,16,,-959.6607,-46.5463,0.0,0.0,,And my homework?!?!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1866
+20110318124381970,1424,2629684,cutscene_click,basic,16,,-957.39075,-46.5463,2.0,0.0,,\u00f0\u0178\u02dc\u0090,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,836
+20110318124381970,1425,2630614,cutscene_click,basic,16,,-948.31085,-51.086246,8.0,4.0,,See?!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,930
+20110318124381970,1426,2632250,cutscene_click,basic,16,,-950.5808,-51.086246,2.0,0.0,,That thing's a monster!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1636
+20110318124381970,1427,2636100,cutscene_click,basic,16,,-875.67175,91.92202,66.0,126.0,,I don't have time for this.,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,3850
+20110318124381970,1428,2638048,cutscene_click,basic,16,,-959.6607,-48.816273,74.0,124.0,,"Jolie- keep your badger under control, or he'll have to go.",confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1948
+20110318124381970,1429,2638632,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,YEAH!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,584
+20110318124381970,1430,2639215,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,"And you, Frank-",confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,583
+20110318124381970,1431,2639615,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,YEAH!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,400
+20110318124381970,1432,2640699,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,Wait- me?,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1084
+20110318124381970,1433,2641882,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,You can't just steal Jolie's pet. Don't you know badgers are protected animals?,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1183
+20110318124381970,1434,2642611,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,"Besides, he looks friendly to me.",confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,729
+20110318124381970,1435,2642648,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,Wha?!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,37
+20110318124381970,1436,2642882,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,Ugh. Fine.,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,234
+20110318124381970,1437,2643181,cutscene_click,basic,16,,-959.6607,-48.816273,0.0,0.0,,\u00f0\u0178\u02dc\u009d,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,299
+20110318124381970,1438,2645015,cutscene_click,basic,16,,-927.8811,-68.11104,28.0,17.0,,"Alright, Jolie. Back to work.",confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1834
+20110318124381970,1439,2645582,cutscene_click,basic,16,,-933.556,-62.436108,5.0,5.0,,Your grampa is waiting for you in the collection room.,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,567
+20110318124381970,1440,2645932,cutscene_click,basic,16,,-745.89307,-67.100105,0.0,0.0,,"Come on, Teddy.",confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,350
+20110318124381970,1441,2646933,cutscene_click,basic,16,,-521.85175,-89.92534,32.0,16.0,,Let's go help Gramps!,confrontation,tunic.historicalsociety.cage,tunic.historicalsociety.cage.confrontation,13-22,1001
+20110318124381970,1442,2647831,navigate_click,undefined,17,,-574.2193,-145.09148,187.0,48.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,898
+20110318124381970,1443,2648411,navigate_click,undefined,17,,-442.01926,-130.94937,112.0,14.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,580
+20110318124381970,1444,2649047,navigate_click,undefined,17,,-191.52544,-162.95067,66.0,28.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,636
+20110318124381970,1445,2649497,navigate_click,undefined,17,,-59.50576,-146.184,0.0,16.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,450
+20110318124381970,1446,2649945,navigate_click,undefined,17,,74.31558,-134.83817,13.0,10.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,448
+20110318124381970,1447,2650511,navigate_click,undefined,17,,140.78273,-129.81055,5.0,4.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,566
+20110318124381970,1448,2650913,navigate_click,undefined,17,,2.3856227,31.976429,163.0,142.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,402
+20110318124381970,1449,2651830,navigate_click,undefined,17,,-118.45811,-13.438691,124.0,42.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,917
+20110318124381970,1450,2652496,navigate_click,undefined,17,,-109.55485,-276.35168,5.0,232.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,666
+20110318124381970,1451,2652963,navigate_click,undefined,17,,-383.44373,-235.07463,242.0,40.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,467
+20110318124381970,1452,2654151,navigate_click,undefined,17,,-496.10446,-204.46373,54.0,30.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,1188
+20110318124381970,1453,2653846,navigate_click,undefined,17,,-623.292,-208.3097,5.0,3.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,0
+20110318124381970,1454,2654149,navigate_click,undefined,17,,-720.31323,-208.49672,1.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,303
+20110318124381970,1455,2654463,navigate_click,undefined,17,,-828.04315,-208.61975,0.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,314
+20110318124381970,1456,2654930,navigate_click,undefined,17,,-1018.7417,-184.8802,32.0,21.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,467
+20110318124381970,1457,2655446,navigate_click,undefined,17,,-1205.2708,-181.65776,37.0,2.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,516
+20110318124381970,1458,2655846,navigate_click,undefined,17,,-1324.466,-181.17557,2.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,400
+20110318124381970,1459,2656197,navigate_click,undefined,17,,-1425.0333,-180.94408,2.0,0.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,351
+20110318124381970,1460,2657062,navigate_click,undefined,17,,-1677.4153,-125.10949,64.0,49.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,865
+20110318124381970,1461,2657647,navigate_click,undefined,17,,-1755.7128,-120.10283,2.0,2.0,,,fqid_None,tunic.historicalsociety.cage,text_fqid_None,13-22,585
+20110318124381970,1462,2658495,navigate_click,undefined,17,,-1913.959,-51.332485,61.0,59.0,,,tobasement,tunic.historicalsociety.cage,text_fqid_None,13-22,848
+20110318124381970,1463,2664535,cutscene_click,basic,17,,300.35928,328.1876,711.0,283.0,,undefined,savedteddy,tunic.historicalsociety.basement,tunic.historicalsociety.basement.savedteddy,13-22,6040
+20110318124381970,1464,2669685,cutscene_click,basic,17,,-253.03467,153.94518,397.0,125.0,,undefined,savedteddy,tunic.historicalsociety.basement,tunic.historicalsociety.basement.savedteddy,13-22,5150
+20110318124381970,1465,2680033,cutscene_click,basic,17,,-483.03467,-35.63058,165.0,136.0,,undefined,savedteddy,tunic.historicalsociety.basement,tunic.historicalsociety.basement.savedteddy,13-22,10348
+20110318124381970,1466,2684584,cutscene_click,basic,17,,324.05624,-222.41846,579.0,134.0,,undefined,savedteddy,tunic.historicalsociety.basement,tunic.historicalsociety.basement.savedteddy,13-22,4551
+20110318124381970,1467,2685936,cutscene_click,basic,17,,407.6926,-427.32755,60.0,147.0,,undefined,savedteddy,tunic.historicalsociety.basement,tunic.historicalsociety.basement.savedteddy,13-22,1352
+20110318124381970,1468,2694546,cutscene_click,basic,17,,-124.79224,-55.145733,382.0,267.0,,Gramps must be up in the collection room.,savedteddy,tunic.historicalsociety.basement,tunic.historicalsociety.basement.savedteddy,13-22,8610
+20110318124381970,1469,2695744,cutscene_click,basic,17,,-116.428604,-66.29725,6.0,8.0,,Let's go find him!,savedteddy,tunic.historicalsociety.basement,tunic.historicalsociety.basement.savedteddy,13-22,1198
+20110318124381970,1470,2697821,navigate_click,undefined,17,,151.20776,87.03609,192.0,110.0,,,tocloset_dirty,tunic.historicalsociety.basement,text_fqid_None,13-22,2077
+20110318124381970,1471,2701827,navigate_click,undefined,17,,-367.79916,169.41968,238.0,103.0,,,tobasement,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,4006
+20110318124381970,1472,2702872,notebook_click,open,17,4.0,-490.73267,-410.20374,328.0,463.0,,,fqid_None,tunic.historicalsociety.basement,text_fqid_None,13-22,1045
+20110318124381970,1473,2704745,notebook_click,basic,17,4.0,202.0552,-318.20374,497.0,66.0,,,fqid_None,tunic.historicalsociety.basement,text_fqid_None,13-22,1873
+20110318124381970,1474,2706260,notebook_click,close,17,4.0,549.1461,331.37204,249.0,466.0,,,fqid_None,tunic.historicalsociety.basement,text_fqid_None,13-22,1515
+20110318124381970,1475,2706563,navigate_click,undefined,17,,549.1461,331.37204,0.0,0.0,,,fqid_None,tunic.historicalsociety.basement,text_fqid_None,13-22,303
+20110318124381970,1476,2707475,navigate_click,undefined,17,,-472.42114,-106.324936,771.0,314.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,912
+20110318124381970,1477,2708427,navigate_click,undefined,17,,-484.0933,-104.931,1.0,1.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,952
+20110318124381970,1478,2709259,navigate_click,undefined,17,,-557.35535,-36.627968,8.0,49.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,832
+20110318124381970,1479,2709993,navigate_click,undefined,17,,-554.115,-0.3855452,60.0,26.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,734
+20110318124381970,1480,2712510,navigate_click,undefined,17,,926.2047,-360.49088,688.0,230.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,2517
+20110318124381970,1481,2712960,navigate_click,undefined,17,,865.6988,-442.42502,52.0,46.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,450
+20110318124381970,1482,2713659,navigate_click,undefined,17,,312.42188,-382.92682,375.0,51.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,699
+20110318124381970,1483,2714192,navigate_click,undefined,17,,-50.65994,-391.3705,215.0,1.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,533
+20110318124381970,1484,2714609,navigate_click,undefined,17,,-120.513885,-352.54083,14.0,26.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,417
+20110318124381970,1485,2715059,navigate_click,undefined,17,,-199.69905,-339.54486,4.0,8.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,450
+20110318124381970,1486,2715594,navigate_click,undefined,17,,-348.38855,-209.97156,27.0,79.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,535
+20110318124381970,1487,2716109,navigate_click,undefined,17,,-423.59512,-244.03061,23.0,25.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,515
+20110318124381970,1488,2716509,navigate_click,undefined,17,,-517.4988,-239.96165,2.0,1.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,400
+20110318124381970,1489,2716943,navigate_click,undefined,17,,-614.06464,-246.83398,1.0,5.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,434
+20110318124381970,1490,2717621,navigate_click,undefined,17,,-701.9881,-246.6928,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,678
+20110318124381970,1491,2717743,navigate_click,undefined,17,,-784.75696,-241.74507,0.0,3.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,122
+20110318124381970,1492,2718192,navigate_click,undefined,17,,-869.6118,-233.24872,1.0,5.0,,,tocollectionflag,tunic.historicalsociety.entry,text_fqid_None,13-22,449
+20110318124381970,1493,2720310,navigate_click,undefined,17,,-115.8596,7.7553444,117.0,134.0,,,gramps,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,2118
+20110318124381970,1494,2723876,person_click,basic,17,,-115.455086,33.100136,94.0,14.0,,Teddy! I'm sure glad to see you.,gramps,tunic.historicalsociety.collection_flag,tunic.historicalsociety.collection_flag.gramps.flag,13-22,3566
+20110318124381970,1495,2724826,person_click,basic,17,,-120.75364,37.426464,3.0,3.0,,The archivist had him locked up!,gramps,tunic.historicalsociety.collection_flag,tunic.historicalsociety.collection_flag.gramps.flag,13-22,950
+20110318124381970,1496,2725592,person_click,basic,17,,-115.15409,41.74596,4.0,3.0,,Gadzooks! Poor critter.,gramps,tunic.historicalsociety.collection_flag,tunic.historicalsociety.collection_flag.gramps.flag,13-22,766
+20110318124381970,1497,2727676,person_click,basic,17,,-115.20459,44.625168,0.0,2.0,,"You're becoming quite the detective, Jo.",gramps,tunic.historicalsociety.collection_flag,tunic.historicalsociety.collection_flag.gramps.flag,13-22,2084
+20110318124381970,1498,2728496,person_click,basic,17,,-115.20548,46.064568,0.0,1.0,,Notice any clues about this flag?,gramps,tunic.historicalsociety.collection_flag,tunic.historicalsociety.collection_flag.gramps.flag,13-22,820
+20110318124381970,1499,2729876,person_click,basic,17,,-106.56935,30.231237,6.0,11.0,,Well... it looks hand-stitched.,gramps,tunic.historicalsociety.collection_flag,tunic.historicalsociety.collection_flag.gramps.flag,13-22,1380
+20110318124381970,1500,2731011,person_click,basic,17,,7.1427493,21.594873,79.0,6.0,,"Aha! Good catch, Jo.",gramps,tunic.historicalsociety.collection_flag,tunic.historicalsociety.collection_flag.gramps.flag,13-22,1135
+20110318124381970,1501,2732845,person_click,basic,17,,5.703353,21.594873,1.0,0.0,,"Go on, tell the boss what you found!",gramps,tunic.historicalsociety.collection_flag,tunic.historicalsociety.collection_flag.gramps.flag,13-22,1834
+20110318124381970,1502,2736059,navigate_click,undefined,18,,662.067,-38.859673,456.0,42.0,,,toentry,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,3214
+20110318124381970,1503,2740892,navigate_click,undefined,18,,100.22211,61.516747,78.0,71.0,,,groupconvo_flag,tunic.historicalsociety.entry,text_fqid_None,13-22,4833
+20110318124381970,1504,2743509,navigate_click,undefined,18,,345.09314,116.77821,88.0,35.0,,,groupconvo_flag,tunic.historicalsociety.entry,text_fqid_None,13-22,2617
+20110318124381970,1505,2748159,cutscene_click,basic,18,,-182.71588,-96.35844,512.0,144.0,,"I'm telling you, Boss. Taxidermy is the way to go!",groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,4650
+20110318124381970,1506,2749592,cutscene_click,basic,18,,-182.63315,-96.33252,0.0,0.0,,"Nonsense. I want live animals at the exhibit, not stuffed ones.",groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,1433
+20110318124381970,1507,2750025,cutscene_click,basic,18,,-182.6296,-96.331406,0.0,0.0,,"Ah, Jolie! I'm glad you're here.",groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,433
+20110318124381970,1508,2750992,cutscene_click,basic,18,,-182.62715,-96.33064,0.0,0.0,,I'm putting you in charge of the flag case.,groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,967
+20110318124381970,1509,2751660,cutscene_click,basic,18,,-182.62679,-96.33053,0.0,0.0,,"Make sure to get some old photos for the exhibit, like last time!",groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,668
+20110318124381970,1510,2752476,cutscene_click,basic,18,,-182.62668,-96.3305,0.0,0.0,,Wait! Can't I do it?,groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,816
+20110318124381970,1511,2752875,cutscene_click,basic,18,,-182.62666,-96.33049,0.0,0.0,,The symbol on the flag looks sort of like a deer hoof.,groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,399
+20110318124381970,1512,2753759,cutscene_click,basic,18,,-182.62665,-96.33048,0.0,0.0,,It could be an early design for the Wisconsin state flag!,groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,884
+20110318124381970,1513,2754592,cutscene_click,basic,18,,-182.62665,-96.33048,0.0,0.0,,"Wells, you already have a job to do.",groupconvo_flag,tunic.historicalsociety.entry,tunic.historicalsociety.entry.groupconvo_flag,13-22,833
+20110318124381970,1514,2758175,navigate_click,undefined,18,,73.20981,110.28401,126.0,140.0,,,wells,tunic.historicalsociety.entry,text_fqid_None,13-22,3583
+20110318124381970,1515,2759926,person_click,basic,18,,53.45365,69.258156,49.0,31.0,,"What now, kid?",wells,tunic.historicalsociety.entry,tunic.historicalsociety.entry.wells.flag,13-22,1751
+20110318124381970,1516,2760309,person_click,basic,18,,49.831413,69.508736,0.0,0.0,,Do you really think that symbol is a deer hoof?,wells,tunic.historicalsociety.entry,tunic.historicalsociety.entry.wells.flag,13-22,383
+20110318124381970,1517,2761209,person_click,basic,18,,46.95132,69.70797,0.0,0.0,,Not sure. Do I look like a deer expert to you?,wells,tunic.historicalsociety.entry,tunic.historicalsociety.entry.wells.flag,13-22,900
+20110318124381970,1518,2762060,navigate_click,undefined,18,,46.421986,69.74458,0.0,0.0,,,wells,tunic.historicalsociety.entry,text_fqid_None,13-22,851
+20110318124381970,1519,2763280,person_click,basic,18,,316.58795,110.463524,166.0,25.0,,"What now, kid?",wells,tunic.historicalsociety.entry,tunic.historicalsociety.entry.wells.flag,13-22,1220
+20110318124381970,1520,2765743,person_click,basic,18,,435.4414,48.58689,73.0,38.0,,Do you really think that symbol is a deer hoof?,wells,tunic.historicalsociety.entry,tunic.historicalsociety.entry.wells.flag,13-22,2463
+20110318124381970,1521,2766830,person_click,basic,18,,365.4216,110.46472,43.0,38.0,,Not sure. Do I look like a deer expert to you?,wells,tunic.historicalsociety.entry,tunic.historicalsociety.entry.wells.flag,13-22,1087
+20110318124381970,1522,2767779,navigate_click,undefined,18,,331.22595,95.80945,21.0,9.0,,,boss,tunic.historicalsociety.entry,text_fqid_None,13-22,949
+20110318124381970,1523,2770113,person_click,basic,18,,140.23114,-88.57228,114.0,111.0,,Do you know where I can find a deer expert?,boss,tunic.historicalsociety.entry,tunic.historicalsociety.entry.boss.flag,13-22,2334
+20110318124381970,1524,2772645,person_click,basic,18,,140.1523,-88.62808,0.0,0.0,,Hmm. You could try the Aldo Leopold Wildlife Center.,boss,tunic.historicalsociety.entry,tunic.historicalsociety.entry.boss.flag,13-22,2532
+20110318124381970,1525,2774612,person_click,basic,18,,140.15154,-88.62862,0.0,0.0,,Ugh. I have to head over there and check out the animals.,boss,tunic.historicalsociety.entry,tunic.historicalsociety.entry.boss.flag,13-22,1967
+20110318124381970,1526,2777831,person_click,basic,18,,615.6337,-12.095541,292.0,47.0,,Can I ride with you?,boss,tunic.historicalsociety.entry,tunic.historicalsociety.entry.boss.flag,13-22,3219
+20110318124381970,1527,2780501,person_click,basic,18,,540.72894,-36.520996,46.0,15.0,,FINE. That possum better not scratch my leather seats...,boss,tunic.historicalsociety.entry,tunic.historicalsociety.entry.boss.flag,13-22,2670
+20110318124381970,1528,2781229,person_click,basic,18,,591.20825,-33.264267,31.0,2.0,,"Don't worry, he won't! (And he's a badger, by the way.)",boss,tunic.historicalsociety.entry,tunic.historicalsociety.entry.boss.flag,13-22,728
+20110318124381970,1529,2782458,navigate_click,undefined,18,,625.4039,-49.547905,21.0,10.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1229
+20110318124381970,1530,2783641,navigate_click,undefined,18,,944.6348,41.56717,107.0,55.0,,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,1183
+20110318124381970,1531,2784577,map_hover,basic,18,,,,,,717.0,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,936
+20110318124381970,1532,2785844,map_hover,basic,18,,,,,,166.0,,tunic.capitol_2,tunic.historicalsociety.entry,text_fqid_None,13-22,1267
+20110318124381970,1533,2785927,map_hover,basic,18,,,,,,64.0,,tunic.historicalsociety,tunic.historicalsociety.entry,text_fqid_None,13-22,83
+20110318124381970,1534,2787093,map_click,undefined,18,,887.14404,-270.94513,,,,,tunic.wildlife,tunic.historicalsociety.entry,text_fqid_None,13-22,1166
+20110318124381970,1535,2808762,navigate_click,undefined,18,,221.85307,-617.23773,121.0,64.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,21669
+20110318124381970,1536,2809559,navigate_click,undefined,18,,-165.56445,-798.943,366.0,167.0,,,tomap,tunic.wildlife.center,text_fqid_None,13-22,797
+20110318124381970,1537,2810911,map_hover,basic,18,,,,,,68.0,,tunic.kohlcenter,tunic.wildlife.center,text_fqid_None,13-22,1352
+20110318124381970,1538,2812025,map_click,close,18,,525.842,-151.04207,,,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1114
+20110318124381970,1539,2813474,navigate_click,undefined,18,,-450.98962,-753.90875,748.0,462.0,,,coffee,tunic.wildlife.center,text_fqid_None,13-22,1449
+20110318124381970,1540,2817291,observation_click,basic,18,,-188.16153,-681.8133,458.0,33.0,,People sure drink a lot of coffee around here.,coffee,tunic.wildlife.center,tunic.wildlife.center.coffee,13-22,3817
+20110318124381970,1541,2817741,navigate_click,undefined,18,,-310.54547,-787.1812,90.0,81.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,450
+20110318124381970,1542,2820025,navigate_click,undefined,18,,48.483864,-786.68585,229.0,17.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,2284
+20110318124381970,1543,2821841,navigate_click,undefined,18,,164.30624,-763.5282,111.0,18.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1816
+20110318124381970,1544,2823308,navigate_click,undefined,18,,-52.719936,-777.8962,254.0,15.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1467
+20110318124381970,1545,2825024,navigate_click,undefined,18,,-411.26614,-827.81384,158.0,36.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1716
+20110318124381970,1546,2826281,navigate_click,undefined,18,,-442.10397,-815.04865,5.0,13.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1257
+20110318124381970,1547,2828725,navigate_click,undefined,18,,-816.42944,-560.8288,72.0,198.0,,,wells,tunic.wildlife.center,text_fqid_None,13-22,2444
+20110318124381970,1548,2831191,person_click,basic,18,,-757.8544,-588.4899,167.0,94.0,,Gah. I can't believe this.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals,13-22,2466
+20110318124381970,1549,2833012,person_click,basic,18,,-762.5615,-583.4226,1.0,2.0,,"I'm a historian, not a zookeeper!",wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals,13-22,1821
+20110318124381970,1550,2834025,person_click,basic,18,,-756.1547,-583.3443,5.0,0.0,,"And this place is dirty, and itchy, and-",wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals,13-22,1013
+20110318124381970,1551,2834791,person_click,basic,18,,-757.47235,-580.7277,1.0,2.0,,I love it!,wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals,13-22,766
+20110318124381970,1552,2835875,person_click,basic,18,,-760.08246,-580.72473,2.0,0.0,,Of course you do. You've got a rodent following you around.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals,13-22,1084
+20110318124381970,1553,2836541,person_click,basic,18,,-760.08295,-580.7244,0.0,0.0,,"Actually, badgers aren't rodents-",wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals,13-22,666
+20110318124381970,1554,2837225,person_click,basic,18,,-758.78,-580.7243,1.0,0.0,,Whatever.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals,13-22,684
+20110318124381970,1555,2837683,navigate_click,undefined,18,,-753.56793,-580.7243,4.0,0.0,,,wells,tunic.wildlife.center,text_fqid_None,13-22,458
+20110318124381970,1556,2838974,person_click,basic,18,,-752.26495,-585.9364,1.0,4.0,,Ugh... I think that lynx is looking at me funny.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals2,13-22,1291
+20110318124381970,1557,2839507,navigate_click,undefined,18,,-750.9619,-585.9364,1.0,0.0,,,wells,tunic.wildlife.center,text_fqid_None,13-22,533
+20110318124381970,1558,2840291,person_click,basic,18,,-750.9619,-588.5424,0.0,2.0,,Ugh... I think that lynx is looking at me funny.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals2,13-22,784
+20110318124381970,1559,2841631,navigate_click,undefined,18,,-354.84073,-571.603,304.0,13.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1340
+20110318124381970,1560,2842308,navigate_click,undefined,18,,-202.6063,-691.04694,25.0,84.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,677
+20110318124381970,1561,2842824,navigate_click,undefined,18,,-89.837715,-716.36005,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,516
+20110318124381970,1562,2843275,navigate_click,undefined,18,,107.2162,-730.2409,75.0,5.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,451
+20110318124381970,1563,2843941,navigate_click,undefined,18,,282.4475,-708.41626,18.0,28.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,666
+20110318124381970,1564,2844674,navigate_click,undefined,18,,490.1603,-550.34937,33.0,121.0,,,crane_ranger,tunic.wildlife.center,text_fqid_None,13-22,733
+20110318124381970,1565,2849241,person_click,basic,18,,582.3881,-601.3397,121.0,84.0,,Oh no! What happened to that crane?,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,4567
+20110318124381970,1566,2853511,person_click,basic,18,,592.9031,-613.0461,8.0,9.0,,Her beak is stuck in a coffee cup.,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,4270
+20110318124381970,1567,2854843,person_click,basic,18,,592.9031,-614.3491,0.0,1.0,,It's lucky we found her.,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,1332
+20110318124381970,1568,2856076,person_click,basic,18,,592.9031,-616.9552,0.0,2.0,,Ugh! Those cups are all over the place.,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,1233
+20110318124381970,1569,2857676,person_click,basic,18,,592.9031,-618.25824,0.0,1.0,,I need to get her free. She won't hold still!,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,1600
+20110318124381970,1570,2858526,person_click,basic,18,,592.9031,-623.47034,0.0,4.0,,Can Teddy and I help?,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,850
+20110318124381970,1571,2859444,person_click,basic,18,,592.9031,-623.47034,0.0,0.0,,Sure! Give it a try.,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,918
+20110318124381970,1572,2860560,person_click,basic,18,,590.29706,-623.47034,2.0,0.0,,Careful. That beak is sharp!,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,1116
+20110318124381970,1573,2862960,person_click,basic,18,,590.29706,-623.47034,0.0,0.0,,"We need to calm her down, Teddy.",crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,2400
+20110318124381970,1574,2864061,person_click,basic,18,,590.29706,-623.47034,0.0,0.0,,Any ideas?,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,1101
+20110318124381970,1575,2865676,person_click,basic,18,,552.50916,-626.0764,29.0,2.0,,\u00f0\u0178\u00a7\u02dc,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,1615
+20110318124381970,1576,2867760,person_click,basic,18,,523.84247,-654.74304,22.0,22.0,,Yoga does sound nice.,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,2084
+20110318124381970,1577,2868492,person_click,basic,18,,523.84247,-640.4097,0.0,11.0,,"But cranes can't do yoga, Teddy!",crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,732
+20110318124381970,1578,2869159,person_click,basic,18,,523.84247,-637.80365,0.0,2.0,,\u00f0\u0178\u008d\u00a9,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,667
+20110318124381970,1579,2870874,person_click,basic,18,,454.7819,-602.6218,53.0,27.0,,Cranes don't eat donuts!,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,1715
+20110318124381970,1580,2871826,person_click,basic,18,,446.9637,-597.4097,6.0,4.0,,"Besides, you just ate my last snack.",crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,952
+20110318124381970,1581,2872693,person_click,basic,18,,439.1455,-584.37946,6.0,10.0,,\u00f0\u0178\u00a6\u2014,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,867
+20110318124381970,1582,2874793,person_click,basic,18,,459.99402,-590.8946,16.0,5.0,,"Oh yeah, cranes eat insects!",crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,2100
+20110318124381970,1583,2875661,person_click,basic,18,,459.99402,-590.8946,0.0,0.0,,Luckily there are tons of insects around here...,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,868
+20110318124381970,1584,2877301,person_click,basic,18,,459.99402,-594.80365,0.0,3.0,,Got one!,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,1640
+20110318124381970,1585,2877159,person_click,basic,18,,462.60007,-594.80365,2.0,0.0,,Maybe she'll let me take off the cup!,crane_ranger,tunic.wildlife.center,tunic.wildlife.center.crane_ranger.crane,13-22,0
+20110318124381970,1586,2877756,navigate_click,undefined,18,,462.60007,-594.80365,0.0,0.0,,,remove_cup,tunic.wildlife.center,text_fqid_None,13-22,597
+20110318124381970,1587,2879791,observation_click,basic,18,,329.18726,-502.07373,45.0,67.0,,"It's OK, girl! Look, I found you a cricket!",remove_cup,tunic.wildlife.center,tunic.wildlife.center.remove_cup,13-22,2035
+20110318124381970,1588,2882057,navigate_click,undefined,18,,718.8971,-367.72247,301.0,103.0,,,expert,tunic.wildlife.center,text_fqid_None,13-22,2266
+20110318124381970,1589,2884276,person_click,basic,18,,644.1948,-576.0747,161.0,185.0,,"You did it! Thanks, kid.",expert,tunic.wildlife.center,tunic.wildlife.center.expert.removed_cup,13-22,2219
+20110318124381970,1590,2884576,person_click,basic,18,,653.7932,-575.7814,6.0,0.0,,Can I help you with anything?,expert,tunic.wildlife.center,tunic.wildlife.center.expert.removed_cup,13-22,300
+20110318124381970,1591,2884925,person_click,basic,18,,654.9451,-575.59155,0.0,0.0,,I'm investigating this symbol.,expert,tunic.wildlife.center,tunic.wildlife.center.expert.removed_cup,13-22,349
+20110318124381970,1592,2886121,person_click,basic,18,,656.986,-576.77295,1.0,1.0,,Does it look like a deer hoof?,expert,tunic.wildlife.center,tunic.wildlife.center.expert.removed_cup,13-22,1196
+20110318124381970,1593,2885759,person_click,basic,18,,657.2536,-576.7289,0.0,0.0,,There's a diagram of animal tracks over there.,expert,tunic.wildlife.center,tunic.wildlife.center.expert.removed_cup,13-22,0
+20110318124381970,1594,2886142,person_click,basic,18,,657.39484,-576.70557,0.0,0.0,,Go take a look!,expert,tunic.wildlife.center,tunic.wildlife.center.expert.removed_cup,13-22,383
+20110318124381970,1595,2886596,navigate_click,undefined,18,,661.3761,-577.9967,3.0,1.0,,,expert,tunic.wildlife.center,text_fqid_None,13-22,454
+20110318124381970,1596,2888101,person_click,basic,18,,656.21545,-577.9882,4.0,0.0,,"Thanks for your help, kid!",expert,tunic.wildlife.center,tunic.wildlife.center.expert.recap,13-22,1505
+20110318124381970,1597,2888423,navigate_click,undefined,18,,576.7436,-776.0467,61.0,152.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,322
+20110318124381970,1598,2889756,navigate_click,undefined,18,,709.0699,-518.83545,108.0,271.0,,,expert,tunic.wildlife.center,text_fqid_None,13-22,1333
+20110318124381970,1599,2892057,person_click,basic,18,,339.4615,-760.4359,290.0,256.0,,"Thanks for your help, kid!",expert,tunic.wildlife.center,tunic.wildlife.center.expert.recap,13-22,2301
+20110318124381970,1600,2893023,navigate_click,undefined,18,,112.84243,-738.9953,174.0,14.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,966
+20110318124381970,1601,2894261,navigate_click,undefined,18,,87.895454,-758.19794,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1238
+20110318124381970,1602,2896140,navigate_click,undefined,18,,49.66843,-797.5026,237.0,40.0,,,tomap,tunic.wildlife.center,text_fqid_None,13-22,1879
+20110318124381970,1603,2896726,map_hover,basic,18,,,,,,317.0,,tomap,tunic.wildlife.center,text_fqid_None,13-22,586
+20110318124381970,1604,2899242,map_click,close,18,,531.5243,-140.19043,,,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,2516
+20110318124381970,1605,2900223,navigate_click,undefined,18,,-79.76819,-643.212,469.0,386.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,981
+20110318124381970,1606,2900839,navigate_click,undefined,18,,-163.80022,-691.8764,25.0,55.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,616
+20110318124381970,1607,2901290,navigate_click,undefined,18,,-247.14166,-685.1945,23.0,1.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,451
+20110318124381970,1608,2901790,navigate_click,undefined,18,,-337.0662,-672.22577,18.0,7.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,500
+20110318124381970,1609,2902223,navigate_click,undefined,18,,-411.38177,-661.73566,11.0,5.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,433
+20110318124381970,1610,2902775,navigate_click,undefined,18,,-728.8898,-685.6736,188.0,22.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,552
+20110318124381970,1611,2904173,navigate_click,undefined,18,,-869.2022,-553.2607,56.0,106.0,,,wells,tunic.wildlife.center,text_fqid_None,13-22,1398
+20110318124381970,1612,2906107,person_click,basic,18,,-667.0733,-296.7466,170.0,152.0,,Ugh... I think that lynx is looking at me funny.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.animals2,13-22,1934
+20110318124381970,1613,2907606,navigate_click,undefined,18,,-227.1088,-741.18695,338.0,343.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1499
+20110318124381970,1614,2908007,navigate_click,undefined,18,,-198.5523,-761.29486,3.0,1.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,401
+20110318124381970,1615,2908640,navigate_click,undefined,18,,16.46322,-770.2534,81.0,27.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,633
+20110318124381970,1616,2909308,navigate_click,undefined,18,,229.96,-726.2891,38.0,47.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,668
+20110318124381970,1617,2910098,navigate_click,undefined,18,,457.08868,-704.59863,2.0,14.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,790
+20110318124381970,1618,2911951,navigate_click,undefined,18,,750.1479,-619.9477,3.0,59.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1853
+20110318124381970,1619,2912179,navigate_click,undefined,18,,916.87787,-615.43475,31.0,15.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,228
+20110318124381970,1620,2913042,navigate_click,undefined,18,,1079.6731,-595.4115,19.0,8.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,863
+20110318124381970,1621,2914974,navigate_click,undefined,18,,1196.5154,-426.37854,17.0,121.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,1932
+20110318124381970,1622,2918292,object_hover,undefined,18,,,,,,66.0,,tracks.hub.deer,tunic.wildlife.center,text_fqid_None,13-22,3318
+20110318124381970,1623,2920609,object_hover,undefined,18,,,,,,252.0,,tracks.hub.deer,tunic.wildlife.center,text_fqid_None,13-22,2317
+20110318124381970,1624,2920776,object_click,basic,18,,1089.7013,-415.89005,,,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,167
+20110318124381970,1625,2921825,object_click,basic,18,,1042.7922,-432.82864,36.0,13.0,,,tracks.hub.deer,tunic.wildlife.center,text_fqid_None,13-22,1049
+20110318124381970,1626,2923961,notification_click,basic,18,,730.06506,-795.0709,240.0,278.0,,That hoofprint doesn't match the flag!,fqid_None,tunic.wildlife.center,tunic.wildlife.center.tracks.hub.deer,13-22,2136
+20110318124381970,1627,2924875,object_hover,undefined,18,,,,,,3801.0,,tracks.hub.deer,tunic.wildlife.center,text_fqid_None,13-22,914
+20110318124381970,1628,2928131,object_click,close,18,,1145.7317,-41.919426,,,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,3256
+20110318124381970,1629,2928841,navigate_click,undefined,18,,644.06506,-522.7376,385.0,369.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,710
+20110318124381970,1630,2930724,navigate_click,undefined,18,,721.171,-327.8248,185.0,145.0,,,expert,tunic.wildlife.center,text_fqid_None,13-22,1883
+20110318124381970,1631,2931991,person_click,basic,18,,459.5337,-468.7639,159.0,118.0,,"Thanks for your help, kid!",expert,tunic.wildlife.center,tunic.wildlife.center.expert.recap,13-22,1267
+20110318124381970,1632,2933472,navigate_click,undefined,18,,926.452,-552.0404,363.0,65.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1481
+20110318124381970,1633,2934089,navigate_click,undefined,18,,996.90485,-561.36475,15.0,7.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,617
+20110318124381970,1634,2936091,navigate_click,undefined,18,,1209.2728,-436.24268,53.0,108.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,2002
+20110318124381970,1635,2938972,object_click,basic,18,,1056.9324,-216.60335,140.0,158.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,2881
+20110318124381970,1636,2939238,object_click,basic,18,,1057.007,-216.5733,0.0,0.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,266
+20110318124381970,1637,2939605,object_click,basic,18,,1042.7316,-221.76207,11.0,4.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,367
+20110318124381970,1638,2942472,object_click,basic,18,,1001.09503,-581.3741,32.0,276.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,2867
+20110318124381970,1639,2943189,object_click,basic,18,,645.368,-535.76794,273.0,35.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,717
+20110318124381970,1640,2943805,object_click,basic,18,,386.065,-569.6467,199.0,26.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,616
+20110318124381970,1641,2945205,object_click,close,18,,1140.5195,3.6866353,579.0,440.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,1400
+20110318124381970,1642,2950273,navigate_click,undefined,18,,1179.6105,-426.31335,30.0,330.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,5068
+20110318124381970,1643,2951589,object_click,close,18,,1148.3378,-31.495182,24.0,303.0,,,tracks,tunic.wildlife.center,text_fqid_None,13-22,1316
+20110318124381970,1644,2952522,navigate_click,undefined,18,,602.36804,-722.10126,419.0,530.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,933
+20110318124381970,1645,2953222,navigate_click,undefined,18,,515.9869,-740.42365,41.0,20.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,700
+20110318124381970,1646,2953705,navigate_click,undefined,18,,456.09134,-765.16797,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,483
+20110318124381970,1647,2954105,navigate_click,undefined,18,,386.73044,-777.5907,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,400
+20110318124381970,1648,2954572,navigate_click,undefined,18,,280.6904,-778.38184,6.0,6.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,467
+20110318124381970,1649,2955022,navigate_click,undefined,18,,179.82173,-780.8283,6.0,1.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,450
+20110318124381970,1650,2955572,navigate_click,undefined,18,,5.433522,-779.14386,56.0,3.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,550
+20110318124381970,1651,2956288,navigate_click,undefined,18,,-286.82904,-745.9246,122.0,26.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,716
+20110318124381970,1652,2956655,navigate_click,undefined,18,,-355.36227,-742.3085,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,367
+20110318124381970,1653,2957038,navigate_click,undefined,18,,-446.94498,-739.3956,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,383
+20110318124381970,1654,2957421,navigate_click,undefined,18,,-546.8065,-737.52075,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,383
+20110318124381970,1655,2957988,navigate_click,undefined,18,,-689.4517,-735.9633,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,567
+20110318124381970,1656,2958839,navigate_click,undefined,18,,-856.3769,-615.04047,17.0,92.0,,,wells,tunic.wildlife.center,text_fqid_None,13-22,851
+20110318124381970,1657,2960959,person_click,basic,18,,-748.622,-633.1476,120.0,72.0,,So? What'd you find out?,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,2120
+20110318124381970,1658,2964759,person_click,basic,18,,-666.264,-691.48456,64.0,47.0,,Looks like it's not a deer hoof.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,3800
+20110318124381970,1659,2966791,person_click,basic,18,,-666.26495,-691.4819,0.0,0.0,,Great. Just great. Could this day get any worse?!,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,2032
+20110318124381970,1660,2967758,person_click,basic,18,,-666.26495,-691.4819,0.0,0.0,,"Hey, Wells...",wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,967
+20110318124381970,1661,2968724,person_click,basic,18,,-666.26495,-691.4818,0.0,0.0,,I think I might be able to help you.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,966
+20110318124381970,1662,2969274,person_click,basic,18,,-666.26495,-691.4818,0.0,0.0,,No thanks. I don't need help from kids.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,550
+20110318124381970,1663,2969642,person_click,basic,18,,-666.26495,-691.4818,0.0,0.0,,"Are you sure? I know where you can find a real, live badger for the exhibit!",wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,368
+20110318124381970,1664,2970123,person_click,basic,18,,-666.26495,-691.4818,0.0,0.0,,Wait! What?! Really?,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,481
+20110318124381970,1665,2970974,person_click,basic,18,,-666.26495,-691.4818,0.0,0.0,,"Wells, meet Teddy.",wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,851
+20110318124381970,1666,2972808,person_click,basic,18,,-607.6286,-634.1485,45.0,44.0,,\u00f0\u0178\u02dc\u0160,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,1834
+20110318124381970,1667,2976131,person_click,basic,18,,-741.8407,-671.9364,103.0,29.0,,He says he'd be willing to help out.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,3323
+20110318124381970,1668,2976175,person_click,basic,18,,-741.8407,-671.9364,0.0,0.0,,Yes!!! I'm saved!,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,44
+20110318124381970,1669,2976791,person_click,basic,18,,-741.8407,-671.9364,0.0,0.0,,"A real, live ferret!",wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,616
+20110318124381970,1670,2977308,person_click,basic,18,,-741.8407,-671.9364,0.0,0.0,,We still need to figure out that flag. Do you know anyone who could help?,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,517
+20110318124381970,1671,2977809,person_click,basic,18,,-741.8407,-671.9364,0.0,0.0,,Hmm. Let's see...,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,501
+20110318124381970,1672,2978224,person_click,basic,18,,-741.8407,-671.9364,0.0,0.0,,"Actually, I went to school with somebody who LOVES old flags.",wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,415
+20110318124381970,1673,2978642,person_click,basic,18,,-741.8407,-671.9364,0.0,0.0,,Why don't you go talk to her? I'll let her know you're coming.,wells,tunic.wildlife.center,tunic.wildlife.center.wells.nodeer,13-22,418
+20110318124381970,1674,2979151,navigate_click,undefined,19,,-741.8407,-671.9364,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,509
+20110318124381970,1675,2980457,navigate_click,undefined,19,,-388.14664,-761.78906,292.0,31.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,1306
+20110318124381970,1676,2980905,navigate_click,undefined,19,,-166.80624,-723.8762,149.0,42.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,448
+20110318124381970,1677,2981431,navigate_click,undefined,19,,-5.556738,-726.3598,74.0,2.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,526
+20110318124381970,1678,2981673,navigate_click,undefined,19,,67.55576,-728.26276,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,242
+20110318124381970,1679,2981972,navigate_click,undefined,19,,139.55647,-729.4084,0.0,0.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,299
+20110318124381970,1680,2982440,navigate_click,undefined,19,,390.74423,-614.5504,98.0,89.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,468
+20110318124381970,1681,2982872,navigate_click,undefined,19,,510.17474,-601.6932,2.0,2.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,432
+20110318124381970,1682,2983656,navigate_click,undefined,19,,697.4385,-654.59735,28.0,60.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,784
+20110318124381970,1683,2984440,navigate_click,undefined,19,,920.2445,-654.68,12.0,8.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,784
+20110318124381970,1684,2988251,navigate_click,undefined,19,,435.31284,-818.1267,560.0,122.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,3811
+20110318124381970,1685,2988056,navigate_click,undefined,19,,320.79507,-839.075,55.0,4.0,,,tomap,tunic.wildlife.center,text_fqid_None,13-22,0
+20110318124381970,1686,2988491,navigate_click,undefined,19,,253.70807,-851.6738,0.0,0.0,,,tomap,tunic.wildlife.center,text_fqid_None,13-22,435
+20110318124381970,1687,2989256,navigate_click,undefined,19,,23.859833,-782.6779,48.0,59.0,,,fqid_None,tunic.wildlife.center,text_fqid_None,13-22,765
+20110318124381970,1688,2992421,navigate_click,undefined,19,,52.708893,-793.92346,270.0,13.0,,,tomap,tunic.wildlife.center,text_fqid_None,13-22,3165
+20110318124381970,1689,2993524,map_hover,basic,19,,,,,,32.0,,tunic.kohlcenter,tunic.wildlife.center,text_fqid_None,13-22,1103
+20110318124381970,1690,2993624,map_hover,basic,19,,,,,,91.0,,tunic.library,tunic.wildlife.center,text_fqid_None,13-22,100
+20110318124381970,1691,2993840,map_hover,basic,19,,,,,,82.0,,tunic.historicalsociety,tunic.wildlife.center,text_fqid_None,13-22,216
+20110318124381970,1692,2994692,map_hover,basic,19,,,,,,201.0,,tunic.kohlcenter,tunic.wildlife.center,text_fqid_None,13-22,852
+20110318124381970,1693,2994991,map_hover,basic,19,,,,,,100.0,,tunic.capitol_2,tunic.wildlife.center,text_fqid_None,13-22,299
+20110318124381970,1694,2995025,map_hover,basic,19,,,,,,16.0,,tunic.drycleaner,tunic.wildlife.center,text_fqid_None,13-22,34
+20110318124381970,1695,2995707,map_hover,basic,19,,,,,,65.0,,tunic.humanecology,tunic.wildlife.center,text_fqid_None,13-22,682
+20110318124381970,1696,2995774,map_hover,basic,19,,,,,,32.0,,tunic.kohlcenter,tunic.wildlife.center,text_fqid_None,13-22,67
+20110318124381970,1697,2995991,map_hover,basic,19,,,,,,200.0,,tunic.library,tunic.wildlife.center,text_fqid_None,13-22,217
+20110318124381970,1698,2997074,map_click,undefined,19,,49.19131,-443.85864,,,,,tunic.capitol_2,tunic.wildlife.center,text_fqid_None,13-22,1083
+20110318124381970,1699,2998121,navigate_click,undefined,19,,274.1903,23.064663,20.0,14.0,,,boss,tunic.capitol_2.hall,text_fqid_None,13-22,1047
+20110318124381970,1700,3003205,person_click,basic,19,,114.363716,-194.58144,106.0,152.0,,Jolie! I was hoping you'd stop by. Any news on the flag artifact?,boss,tunic.capitol_2.hall,tunic.capitol_2.hall.boss.haveyougotit,13-22,5084
+20110318124381970,1701,3004522,person_click,basic,19,,144.34027,-217.3074,20.0,15.0,,I haven't quite figured it out just yet...,boss,tunic.capitol_2.hall,tunic.capitol_2.hall.boss.haveyougotit,13-22,1317
+20110318124381970,1702,3007101,person_click,basic,19,,362.4908,-244.58,144.0,18.0,,"Well, get on it. I'm counting on you to figure this out!",boss,tunic.capitol_2.hall,tunic.capitol_2.hall.boss.haveyougotit,13-22,2579
+20110318124381970,1703,3007287,navigate_click,undefined,19,,609.45966,-205.18607,163.0,26.0,,,fqid_None,tunic.capitol_2.hall,text_fqid_None,13-22,186
+20110318124381970,1704,3007836,navigate_click,undefined,19,,616.18365,-159.20016,19.0,32.0,,,fqid_None,tunic.capitol_2.hall,text_fqid_None,13-22,549
+20110318124381970,1705,3008571,navigate_click,undefined,19,,677.0498,-144.87996,4.0,7.0,,,toentry,tunic.capitol_2.hall,text_fqid_None,13-22,735
+20110318124381970,1706,3010738,map_click,undefined,19,,740.3005,135.69926,99.0,183.0,,,tunic.flaghouse,tunic.capitol_2.hall,text_fqid_None,13-22,2167
+20110318124381970,1707,3013288,navigate_click,undefined,19,,232.04456,44.238773,250.0,60.0,,,flag_girl,tunic.flaghouse.entry,text_fqid_None,13-22,2550
+20110318124381970,1708,3018270,person_click,basic,19,,79.44978,-101.48113,35.0,150.0,,"Hey, nice dog! What breed is he?",flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,4982
+20110318124381970,1709,3028539,person_click,basic,19,,9.406549,54.51952,70.0,156.0,,"Actually, he's a badger.",flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,10269
+20110318124381970,1710,3028808,person_click,basic,19,,75.40655,65.51952,66.0,11.0,,"Oh, cool! I've never seen a badger in real life.",flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,269
+20110318124381970,1711,3030591,person_click,basic,19,,64.40655,119.51952,11.0,54.0,,You've got a million flags here!,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,1783
+20110318124381970,1712,3033971,person_click,basic,19,,115.40655,158.51952,51.0,39.0,,Yep. I'm a vexillophile!,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,3380
+20110318124381970,1713,3034772,person_click,basic,19,,117.40655,142.51952,2.0,16.0,,A vexy-wha?,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,801
+20110318124381970,1714,3035589,person_click,basic,19,,114.40655,143.51952,3.0,1.0,,It just means flag expert. How can I help?,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,817
+20110318124381970,1715,3036805,person_click,basic,19,,115.40655,145.51952,1.0,2.0,,I'm investigating this flag.,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,1216
+20110318124381970,1716,3037604,person_click,basic,19,,120.40655,146.51952,5.0,1.0,,Can you take a look?,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,799
+20110318124381970,1717,3039938,person_click,basic,19,,131.40656,84.51952,11.0,62.0,,"Hey, I've seen that symbol before! Check it out!",flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.hello,13-22,2334
+20110318124381970,1718,3045911,navigate_click,undefined,19,,-18.59345,-59.48048,150.0,144.0,,,colorbook,tunic.flaghouse.entry,text_fqid_None,13-22,5973
+20110318124381970,1719,3048056,notification_click,basic,19,,249.11067,47.116825,292.0,107.0,,"Ooh... \Ecology flag, by Ron Cobb.\",fqid_None,tunic.flaghouse.entry,tunic.flaghouse.entry.colorbook,13-22,2145
+20110318124381970,1720,3048907,object_click,basic,19,,268.94183,-152.88565,20.0,200.0,,,colorbook,tunic.flaghouse.entry,text_fqid_None,13-22,851
+20110318124381970,1721,3050005,object_click,close,19,,406.9026,238.11378,138.0,391.0,,,colorbook,tunic.flaghouse.entry,text_fqid_None,13-22,1098
+20110318124381970,1722,3051868,navigate_click,undefined,19,,323.89676,133.1137,83.0,105.0,,,flag_girl,tunic.flaghouse.entry,text_fqid_None,13-22,1863
+20110318124381970,1723,3053736,person_click,basic,19,,138.45535,-178.49445,209.0,312.0,,It's an ecology flag!,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.symbol,13-22,1868
+20110318124381970,1724,3055221,person_click,basic,19,,133.12527,-173.4846,6.0,5.0,,Do you know what this flag was used for?,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.symbol,13-22,1485
+20110318124381970,1725,3055561,person_click,basic,19,,137.35545,-174.48123,4.0,1.0,,I'm not sure.,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.symbol,13-22,340
+20110318124381970,1726,3055736,person_click,basic,19,,140.38196,-177.48083,3.0,3.0,,"If I were you, I'd go to the library and do some digging.",flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.symbol,13-22,175
+20110318124381970,1727,3056669,person_click,basic,19,,142.40208,-175.48055,2.0,2.0,,Good idea. Thanks!,flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.symbol,13-22,933
+20110318124381970,1728,3061771,navigate_click,undefined,20,,75.40655,-310.48047,67.0,135.0,,,fqid_None,tunic.flaghouse.entry,text_fqid_None,13-22,5102
+20110318124381970,1729,3063622,navigate_click,undefined,20,,163.23485,127.16593,110.0,443.0,,,flag_girl,tunic.flaghouse.entry,text_fqid_None,13-22,1851
+20110318124381970,1730,3069251,person_click,basic,20,,159.40239,130.51814,26.0,2.0,,"If I were you, I'd go to the library and do some digging.",flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.symbol_recap,13-22,5629
+20110318124381970,1731,3071953,navigate_click,undefined,20,,141.40654,162.51952,18.0,32.0,,,fqid_None,tunic.flaghouse.entry,text_fqid_None,13-22,2702
+20110318124381970,1732,3072753,navigate_click,undefined,20,,176.1586,168.30771,50.0,3.0,,,flag_girl,tunic.flaghouse.entry,text_fqid_None,13-22,800
+20110318124381970,1733,3074086,person_click,basic,20,,154.80074,164.86394,35.0,1.0,,"If I were you, I'd go to the library and do some digging.",flag_girl,tunic.flaghouse.entry,tunic.flaghouse.entry.flag_girl.symbol_recap,13-22,1333
+20110318124381970,1734,3078731,navigate_click,undefined,20,,495.40588,109.51967,339.0,55.0,,,tomap,tunic.flaghouse.entry,text_fqid_None,13-22,4645
+20110318124381970,1735,3079787,map_hover,basic,20,,,,,,966.0,,tomap,tunic.flaghouse.entry,text_fqid_None,13-22,1056
+20110318124381970,1736,3080137,map_hover,basic,20,,,,,,84.0,,tunic.wildlife,tunic.flaghouse.entry,text_fqid_None,13-22,350
+20110318124381970,1737,3080621,map_hover,basic,20,,,,,,202.0,,tunic.capitol_2,tunic.flaghouse.entry,text_fqid_None,13-22,484
+20110318124381970,1738,3080903,map_hover,basic,20,,,,,,117.0,,tunic.historicalsociety,tunic.flaghouse.entry,text_fqid_None,13-22,282
+20110318124381970,1739,3081055,map_hover,basic,20,,,,,,50.0,,tunic.flaghouse,tunic.flaghouse.entry,text_fqid_None,13-22,152
+20110318124381970,1740,3081736,map_click,undefined,20,,83.37458,25.37119,,,,,tunic.library,tunic.flaghouse.entry,text_fqid_None,13-22,681
+20110318124381970,1741,3083107,navigate_click,undefined,20,,-411.4624,122.09041,75.0,62.0,,,worker,tunic.library.frontdesk,text_fqid_None,13-22,1371
+20110318124381970,1742,3085739,person_click,basic,20,,-161.54185,74.224396,9.0,37.0,,"Welcome back, Dear! How can I help you?",worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.flag,13-22,2632
+20110318124381970,1743,3087055,person_click,basic,20,,-133.9096,69.01497,13.0,4.0,,I need to learn more about this flag!,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.flag,13-22,1316
+20110318124381970,1744,3087972,person_click,basic,20,,-138.26065,74.22731,4.0,4.0,,It has something to do with ecology.,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.flag,13-22,917
+20110318124381970,1745,3088722,person_click,basic,20,,-138.11264,72.92432,0.0,1.0,,Hmm... those stripes remind me of the American flag.,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.flag,13-22,750
+20110318124381970,1746,3089558,person_click,basic,20,,-138.07324,74.227356,0.0,1.0,,Your flag must have been part of a national movement!,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.flag,13-22,836
+20110318124381970,1747,3090305,person_click,basic,20,,-138.06497,75.53039,0.0,1.0,,Go check the microfiche. Maybe you'll find something!,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.flag,13-22,747
+20110318124381970,1748,3091736,navigate_click,undefined,20,,-145.88066,-33.924156,6.0,84.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1431
+20110318124381970,1749,3092436,navigate_click,undefined,20,,43.668324,-17.752733,122.0,13.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,700
+20110318124381970,1750,3092786,navigate_click,undefined,20,,71.19546,-17.671469,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,350
+20110318124381970,1751,3093269,navigate_click,undefined,20,,253.21297,-34.534664,88.0,13.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,483
+20110318124381970,1752,3093653,navigate_click,undefined,20,,306.61703,-34.778778,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,384
+20110318124381970,1753,3095111,navigate_click,undefined,20,,467.26993,103.14307,46.0,106.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1458
+20110318124381970,1754,3096086,navigate_click,undefined,20,,637.3995,171.90804,31.0,52.0,,,tomicrofiche,tunic.library.frontdesk,text_fqid_None,13-22,975
+20110318124381970,1755,3098421,navigate_click,undefined,20,,-11.0,131.0,293.0,1.0,,,reader_flag,tunic.library.microfiche,text_fqid_None,13-22,2335
+20110318124381970,1756,3104171,object_click,basic,20,,-221.16263,-15.0,203.0,146.0,,,reader_flag,tunic.library.microfiche,text_fqid_None,13-22,5750
+20110318124381970,1757,3104737,object_click,basic,20,,-204.16273,-7.0,17.0,8.0,,,reader_flag,tunic.library.microfiche,text_fqid_None,13-22,566
+20110318124381970,1758,3105840,object_click,basic,20,,19.837212,-211.0,224.0,204.0,,,reader_flag.paper0.next,tunic.library.microfiche,text_fqid_None,13-22,1103
+20110318124381970,1759,3107123,object_hover,undefined,20,,,,,,1516.0,,reader_flag.paper0.next,tunic.library.microfiche,text_fqid_None,13-22,1283
+20110318124381970,1760,3108026,object_click,basic,20,,17.837204,-220.0,,,,,reader_flag.paper1.next,tunic.library.microfiche,text_fqid_None,13-22,903
+20110318124381970,1761,3108940,object_hover,undefined,20,,,,,,1167.0,,reader_flag.paper1.next,tunic.library.microfiche,text_fqid_None,13-22,914
+20110318124381970,1762,3109672,object_hover,undefined,20,,,,,,668.0,,reader_flag.paper2.prev,tunic.library.microfiche,text_fqid_None,13-22,732
+20110318124381970,1763,3111641,object_click,basic,20,,-261.1628,61.0,,,,,reader_flag.paper2.bingo,tunic.library.microfiche,text_fqid_None,13-22,1969
+20110318124381970,1764,3113755,notification_click,basic,20,,-12.162797,-288.0,249.0,349.0,,Hey! That's Governor Nelson in front of our flag!,fqid_None,tunic.library.microfiche,tunic.library.microfiche.reader_flag.paper2.bingo,13-22,2114
+20110318124381970,1765,3114439,object_hover,undefined,20,,,,,,4416.0,,reader_flag.paper2.bingo,tunic.library.microfiche,text_fqid_None,13-22,684
+20110318124381970,1766,3115254,object_click,close,20,,359.8372,250.0,,,,,reader_flag,tunic.library.microfiche,text_fqid_None,13-22,815
+20110318124381970,1767,3116886,navigate_click,undefined,21,,-11.162797,-277.0,371.0,527.0,,,tofrontdesk,tunic.library.microfiche,text_fqid_None,13-22,1632
+20110318124381970,1768,3120502,navigate_click,undefined,21,,-190.87614,-43.04537,391.0,244.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,3616
+20110318124381970,1769,3254604,navigate_click,undefined,21,,-346.10138,177.05238,222.0,170.0,,,worker,tunic.library.frontdesk,text_fqid_None,13-22,134102
+20110318124381970,1770,3255770,person_click,basic,21,,-20.961847,97.49178,262.0,62.0,,I found the flag! Governor Nelson used it on the first Earth Day!,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.nelson,13-22,1166
+20110318124381970,1771,3256053,person_click,basic,21,,-21.945503,97.56863,0.0,0.0,,Wow! You figured it out!,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.nelson,13-22,283
+20110318124381970,1772,3256285,person_click,basic,21,,-22.448921,97.60795,0.0,0.0,,"Now I just need some old photos, like last time.",worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.nelson,13-22,232
+20110318124381970,1773,3256535,person_click,basic,21,,-21.493082,97.63507,1.0,0.0,,The boss is gonna love it!!!,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.nelson,13-22,250
+20110318124381970,1774,3256769,person_click,basic,21,,-21.701199,97.65133,0.0,0.0,,You could try the archives.,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.nelson,13-22,234
+20110318124381970,1775,3256987,person_click,basic,21,,-21.829165,97.66133,0.0,0.0,,Though the archivist might be too busy to help...,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.nelson,13-22,218
+20110318124381970,1776,3257269,person_click,basic,21,,-20.632591,95.06358,1.0,2.0,,Okay. Thanks!,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.nelson,13-22,282
+20110318124381970,1777,3259234,navigate_click,undefined,21,,-427.3301,87.25728,312.0,6.0,,,worker,tunic.library.frontdesk,text_fqid_None,13-22,1965
+20110318124381970,1778,3262769,person_click,basic,21,,-693.15314,95.07584,204.0,6.0,,Check out the archives. They've got tons of old photos!,worker,tunic.library.frontdesk,tunic.library.frontdesk.worker.nelson_recap,13-22,3535
+20110318124381970,1779,3264201,navigate_click,undefined,21,,-698.3653,96.378876,4.0,1.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,1432
+20110318124381970,1780,3264048,navigate_click,undefined,21,,-753.291,96.378876,0.0,0.0,,,fqid_None,tunic.library.frontdesk,text_fqid_None,13-22,0
+20110318124381970,1781,3264732,navigate_click,undefined,21,,-851.94965,112.015236,2.0,12.0,,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,684
+20110318124381970,1782,3266081,map_hover,basic,21,,,,,,371.0,,toentry,tunic.library.frontdesk,text_fqid_None,13-22,1349
+20110318124381970,1783,3266420,map_hover,basic,21,,,,,,618.0,,tunic.library,tunic.library.frontdesk,text_fqid_None,13-22,339
+20110318124381970,1784,3266535,map_hover,basic,21,,,,,,99.0,,tunic.capitol_2,tunic.library.frontdesk,text_fqid_None,13-22,115
+20110318124381970,1785,3270021,map_click,undefined,21,,-422.5365,42.95463,,,,,tunic.capitol_2,tunic.library.frontdesk,text_fqid_None,13-22,3486
+20110318124381970,1786,3274902,navigate_click,undefined,21,,819.64484,73.06466,373.0,48.0,,,toentry,tunic.capitol_2.hall,text_fqid_None,13-22,4881
+20110318124381970,1787,3276669,map_click,close,21,,874.651,378.7867,36.0,191.0,,,fqid_None,tunic.capitol_2.hall,text_fqid_None,13-22,1767
+20110318124381970,1788,3277616,navigate_click,undefined,21,,786.788,-231.09824,58.0,403.0,,,toentry,tunic.capitol_2.hall,text_fqid_None,13-22,947
+20110318124381970,1789,3278533,map_hover,basic,21,,,,,,183.0,,tunic.wildlife,tunic.capitol_2.hall,text_fqid_None,13-22,917
+20110318124381970,1790,3279768,map_hover,basic,21,,,,,,149.0,,tunic.drycleaner,tunic.capitol_2.hall,text_fqid_None,13-22,1235
+20110318124381970,1791,3279900,map_hover,basic,21,,,,,,116.0,,tunic.capitol_2,tunic.capitol_2.hall,text_fqid_None,13-22,132
+20110318124381970,1792,3280699,map_click,undefined,21,,404.9736,109.98276,,,,,tunic.historicalsociety,tunic.capitol_2.hall,text_fqid_None,13-22,799
+20110318124381970,1793,3284216,navigate_click,undefined,21,,193.88527,114.963394,245.0,21.0,,,tostacks,tunic.historicalsociety.entry,text_fqid_None,13-22,3517
+20110318124381970,1794,3288011,navigate_click,undefined,21,,23.0,138.56546,185.0,83.0,,,tofrontdesk,tunic.historicalsociety.stacks,text_fqid_None,13-22,3795
+20110318124381970,1795,3290633,navigate_click,undefined,21,,-52.211227,43.0,94.0,113.0,,,archivist_glasses,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,2622
+20110318124381970,1796,3293510,person_click,basic,21,,22.576248,2.0,62.0,41.0,,You again! Don't let him hurt me!,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,2877
+20110318124381970,1797,3323500,person_click,basic,21,,-51.3485,-94.0,74.0,96.0,,\u00f0\u0178\u2122\u201e,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,29990
+20110318124381970,1798,3325133,person_click,basic,21,,-59.3485,-104.0,8.0,10.0,,"Don't worry, Teddy won't eat your lunch anymore!",archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,1633
+20110318124381970,1799,3325966,person_click,basic,21,,-69.3485,-100.0,10.0,4.0,,We're just looking for photos for the flag display.,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,833
+20110318124381970,1800,3326449,person_click,basic,21,,-69.3485,-100.0,0.0,0.0,,Wait a minute...,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,483
+20110318124381970,1801,3328200,person_click,basic,21,,-58.3485,-99.0,11.0,1.0,,YOU'RE the new history detective everybody's talking about?,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,1751
+20110318124381970,1802,3329182,person_click,basic,21,,-58.3485,-99.0,0.0,0.0,,Guess so!,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,982
+20110318124381970,1803,3330299,person_click,basic,21,,-58.3485,-99.0,0.0,0.0,,YOU?!,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,1117
+20110318124381970,1804,3334166,person_click,basic,21,,-58.3485,-99.0,0.0,0.0,,Teddy's helping too.,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,3867
+20110318124381970,1805,3336149,person_click,basic,21,,-58.3485,-99.0,0.0,0.0,,What kind of photos do you need?,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,1983
+20110318124381970,1806,3385965,person_click,basic,21,,97.6515,-81.0,156.0,18.0,,Something to do with ecology and Wisconsin.,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,49816
+20110318124381970,1807,3387831,person_click,basic,21,,105.6515,-96.0,8.0,15.0,,Here's a call number for the Stacks. Go find some photos.,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,1866
+20110318124381970,1808,3389481,person_click,basic,21,,5.6514993,-35.0,100.0,61.0,,"Just please, don't let your badger eat them!",archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation,13-22,1650
+20110318124381970,1809,3392270,notebook_click,open,21,6.0,-383.3485,-298.0,389.0,263.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,2789
+20110318124381970,1810,3399586,notebook_click,close,21,6.0,420.6515,265.0,804.0,563.0,,,fqid_None,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,7316
+20110318124381970,1811,3401499,navigate_click,undefined,21,,-38.3485,110.0,459.0,155.0,,,archivist_glasses,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1913
+20110318124381970,1812,3404115,person_click,basic,21,,-49.3485,-264.0,11.0,374.0,,The Stacks are right outside the door. Go find some photos!,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation_recap,13-22,2616
+20110318124381970,1813,3405416,navigate_click,undefined,21,,-24.348501,-303.0,25.0,39.0,,,tostacks,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1301
+20110318124381970,1814,3407583,navigate_click,undefined,21,,346.48196,122.75558,383.0,424.0,,,journals_flag,tunic.historicalsociety.stacks,text_fqid_None,13-22,2167
+20110318124381970,1815,3408734,object_hover,basic,21,,,,,,868.0,,journals_flag,tunic.historicalsociety.stacks,text_fqid_None,13-22,1151
+20110318124381970,1816,3409938,object_hover,undefined,21,,,,,,20.0,,journals_flag.hub.topics_old,tunic.historicalsociety.stacks,text_fqid_None,13-22,1204
+20110318124381970,1817,3414635,object_click,basic,21,,-262.27472,0.75558025,,,,,journals_flag.hub.topics,tunic.historicalsociety.stacks,text_fqid_None,13-22,4697
+20110318124381970,1818,3414851,object_hover,undefined,21,,,,,,684.0,,journals_flag.hub.topics,tunic.historicalsociety.stacks,text_fqid_None,13-22,216
+20110318124381970,1819,3415434,object_hover,undefined,21,,,,,,167.0,,journals_flag.pic_0.bingo,tunic.historicalsociety.stacks,text_fqid_None,13-22,583
+20110318124381970,1820,3417134,object_click,basic,21,,-35.274475,-1.2444197,,,,,journals_flag.pic_0.bingo,tunic.historicalsociety.stacks,text_fqid_None,13-22,1700
+20110318124381970,1821,3418700,notification_click,basic,21,,60.72553,-260.24442,96.0,259.0,,Look at all those activists!,fqid_None,tunic.historicalsociety.stacks,tunic.historicalsociety.stacks.journals_flag.pic_0.bingo,13-22,1566
+20110318124381970,1822,3420102,notification_click,basic,21,,429.72552,-87.24442,369.0,173.0,,This is perfect for the exhibit.,fqid_None,tunic.historicalsociety.stacks,tunic.historicalsociety.stacks.journals_flag.pic_0.bingo,13-22,1402
+20110318124381970,1823,3421150,notification_click,basic,21,,426.72552,-90.24442,3.0,3.0,,I should go to the Capitol and tell Mrs. M!,fqid_None,tunic.historicalsociety.stacks,tunic.historicalsociety.stacks.journals_flag.pic_0.bingo,13-22,1048
+20110318124381970,1824,3422851,object_click,basic,21,,429.72552,-93.24442,3.0,3.0,,,journals_flag.pic_0.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,1701
+20110318124381970,1825,3422966,object_click,basic,21,,429.72552,-91.24442,0.0,2.0,,,journals_flag.pic_1.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,115
+20110318124381970,1826,3423566,object_click,basic,21,,429.72552,-91.24442,0.0,0.0,,,journals_flag.pic_2.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,600
+20110318124381970,1827,3424449,object_click,basic,21,,430.72552,-89.24442,1.0,2.0,,,journals_flag.pic_0.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,883
+20110318124381970,1828,3425064,object_click,basic,21,,430.72552,-89.24442,0.0,0.0,,,journals_flag.pic_1.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,615
+20110318124381970,1829,3425900,object_click,basic,21,,430.72552,-89.24442,0.0,0.0,,,journals_flag.pic_2.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,836
+20110318124381970,1830,3426433,object_click,basic,21,,433.72552,-92.24442,3.0,3.0,,,journals_flag.pic_0.next,tunic.historicalsociety.stacks,text_fqid_None,13-22,533
+20110318124381970,1831,3426983,object_hover,undefined,21,,,,,,11115.0,,journals_flag.pic_0.bingo,tunic.historicalsociety.stacks,text_fqid_None,13-22,550
+20110318124381970,1832,3427866,object_click,close,21,,470.72552,285.75558,,,,,journals_flag,tunic.historicalsociety.stacks,text_fqid_None,13-22,883
+20110318124381970,1833,3429749,navigate_click,undefined,22,,-13.274472,108.75558,484.0,177.0,,,tofrontdesk,tunic.historicalsociety.stacks,text_fqid_None,13-22,1883
+20110318124381970,1834,3432097,navigate_click,undefined,22,,-31.211227,57.0,39.0,50.0,,,archivist_glasses,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,2348
+20110318124381970,1835,3434014,person_click,basic,22,,150.22441,-65.0,169.0,122.0,,The Stacks are right outside the door. Go find some photos!,archivist_glasses,tunic.historicalsociety.frontdesk,tunic.historicalsociety.frontdesk.archivist_glasses.confrontation_recap,13-22,1917
+20110318124381970,1836,3435415,navigate_click,undefined,22,,-18.382587,-310.0,169.0,245.0,,,tostacks,tunic.historicalsociety.frontdesk,text_fqid_None,13-22,1401
+20110318124381970,1837,3437649,navigate_click,undefined,22,,332.48196,99.75558,363.0,408.0,,,journals_flag,tunic.historicalsociety.stacks,text_fqid_None,13-22,2234
+20110318124381970,1838,3441501,object_hover,basic,22,,,,,,3485.0,,journals_flag,tunic.historicalsociety.stacks,text_fqid_None,13-22,3852
+20110318124381970,1839,3442950,object_click,basic,22,,-256.2805,35.75558,,,,,journals_flag.hub.topics,tunic.historicalsociety.stacks,text_fqid_None,13-22,1449
+20110318124381970,1840,3444201,object_hover,undefined,22,,,,,,818.0,,journals_flag.hub.topics,tunic.historicalsociety.stacks,text_fqid_None,13-22,1251
+20110318124381970,1841,3443616,object_hover,undefined,22,,,,,,149.0,,journals_flag.pic_0.bingo,tunic.historicalsociety.stacks,text_fqid_None,13-22,0
+20110318124381970,1842,3443982,object_click,basic,22,,358.7246,-23.24442,,,,,journals_flag,tunic.historicalsociety.stacks,text_fqid_None,13-22,366
+20110318124381970,1843,3445448,object_click,close,22,,441.72546,299.75558,83.0,323.0,,,journals_flag,tunic.historicalsociety.stacks,text_fqid_None,13-22,1466
+20110318124381970,1844,3447165,navigate_click,undefined,22,,-13.274475,-295.24442,455.0,595.0,,,toentry,tunic.historicalsociety.stacks,text_fqid_None,13-22,1717
+20110318124381970,1845,3449464,navigate_click,undefined,22,,47.724586,-400.99057,12.0,56.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,2299
+20110318124381970,1846,3452551,navigate_click,undefined,22,,-471.02264,-108.47186,232.0,204.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,3087
+20110318124381970,1847,3453132,navigate_click,undefined,22,,-646.70374,-117.23639,76.0,10.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,581
+20110318124381970,1848,3453464,navigate_click,undefined,22,,-703.7761,-107.47084,0.0,0.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,332
+20110318124381970,1849,3454149,navigate_click,undefined,22,,-904.15826,-66.95623,40.0,18.0,,,tocollectionflag,tunic.historicalsociety.entry,text_fqid_None,13-22,685
+20110318124381970,1850,3455165,navigate_click,undefined,22,,-974.78345,-4.089753,71.0,36.0,,,tocollectionflag,tunic.historicalsociety.entry,text_fqid_None,13-22,1016
+20110318124381970,1851,3458515,navigate_click,undefined,22,,18.004038,230.8614,251.0,159.0,,,fqid_None,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,3350
+20110318124381970,1852,3459749,navigate_click,undefined,22,,672.7257,-11.610599,496.0,173.0,,,toentry,tunic.historicalsociety.collection_flag,text_fqid_None,13-22,1234
+20110318124381970,1853,3462813,navigate_click,undefined,22,,188.15373,46.861473,22.0,44.0,,,tostacks,tunic.historicalsociety.entry,text_fqid_None,13-22,3064
+20110318124381970,1854,3463883,navigate_click,undefined,22,,213.99008,-50.018494,38.0,63.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,1070
+20110318124381970,1855,3464646,navigate_click,undefined,22,,419.1202,-33.320633,44.0,10.0,,,fqid_None,tunic.historicalsociety.entry,text_fqid_None,13-22,763
+20110318124381970,1856,3465930,navigate_click,undefined,22,,619.82043,110.59905,49.0,87.0,,,tobasement,tunic.historicalsociety.entry,text_fqid_None,13-22,1284
+20110318124381970,1857,3468815,navigate_click,undefined,22,,172.18596,58.15991,162.0,20.0,,,tocloset_dirty,tunic.historicalsociety.basement,text_fqid_None,13-22,2885
+20110318124381970,1858,3471497,navigate_click,undefined,22,,-319.79916,-114.58033,213.0,157.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,2682
+20110318124381970,1859,3472013,navigate_click,undefined,22,,-114.239914,-151.47792,182.0,27.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,516
+20110318124381970,1860,3472711,navigate_click,undefined,22,,-81.625885,-158.96693,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,698
+20110318124381970,1861,3473232,navigate_click,undefined,22,,176.59674,-173.27861,115.0,5.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,521
+20110318124381970,1862,3473614,navigate_click,undefined,22,,232.34175,-175.85645,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,382
+20110318124381970,1863,3473947,navigate_click,undefined,22,,308.24725,-177.31561,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,333
+20110318124381970,1864,3474281,navigate_click,undefined,22,,396.32117,-178.24625,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,334
+20110318124381970,1865,3475450,navigate_click,undefined,22,,120.95205,-178.39656,476.0,1.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,1169
+20110318124381970,1866,3475898,navigate_click,undefined,22,,58.53022,-184.50015,40.0,6.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,448
+20110318124381970,1867,3476281,navigate_click,undefined,22,,-58.205128,-179.12978,46.0,6.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,383
+20110318124381970,1868,3476731,navigate_click,undefined,22,,-172.15685,-178.91893,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,450
+20110318124381970,1869,3477015,navigate_click,undefined,22,,-250.12193,-178.82559,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,284
+20110318124381970,1870,3477249,navigate_click,undefined,22,,-317.4302,-178.77107,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,234
+20110318124381970,1871,3477481,navigate_click,undefined,22,,-385.5928,-178.73157,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,232
+20110318124381970,1872,3477781,navigate_click,undefined,22,,-466.6282,-178.69676,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,300
+20110318124381970,1873,3478148,navigate_click,undefined,22,,-549.9379,-178.67006,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,367
+20110318124381970,1874,3478481,navigate_click,undefined,22,,-614.90076,-178.65485,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,333
+20110318124381970,1875,3478746,navigate_click,undefined,22,,-662.1159,-178.64667,0.0,0.0,,,fqid_None,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,265
+20110318124381970,1876,3480281,navigate_click,undefined,22,,-383.619,191.36722,386.0,370.0,,,tobasement,tunic.historicalsociety.closet_dirty,text_fqid_None,13-22,1535
+20110318124381970,1877,3483165,navigate_click,undefined,22,,-563.2175,2.4023335,549.0,222.0,,,toentry,tunic.historicalsociety.basement,text_fqid_None,13-22,2884
+20110318124381970,1878,3486898,navigate_click,undefined,22,,940.86,85.68077,793.0,42.0,,,tomap,tunic.historicalsociety.entry,text_fqid_None,13-22,3733
+20110318124381970,1879,3488165,map_hover,basic,22,,,,,,64.0,,tunic.wildlife,tunic.historicalsociety.entry,text_fqid_None,13-22,1267
+20110318124381970,1880,3489550,map_hover,basic,22,,,,,,150.0,,tunic.historicalsociety,tunic.historicalsociety.entry,text_fqid_None,13-22,1385
+20110318124381970,1881,3490032,map_click,undefined,22,,530.2965,108.47787,,,,,tunic.capitol_2,tunic.historicalsociety.entry,text_fqid_None,13-22,482
+20110318124381970,1882,3491846,navigate_click,undefined,22,,245.40244,48.82224,67.0,2.0,,,chap4_finale_c,tunic.capitol_2.hall,text_fqid_None,13-22,1814
+20110318124381970,1883,3493829,checkpoint,basic,22,,,,,,,,chap4_finale_c,tunic.capitol_2.hall,text_fqid_None,13-22,1983
